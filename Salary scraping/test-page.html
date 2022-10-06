@@ -1,0 +1,1487 @@
+Line wrap
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<!-- Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-111437545-1"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'UA-111437545-1');
+</script>
+<!-- End Google Analytics -->
+
+<!-- GA4 Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-3WHMQ566Z3"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-3WHMQ566Z3');
+</script>
+<!-- End GA4 Analytics -->
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="google" content="notranslate" />
+<title>IU Salary Listing - Results</title>
+
+<link href="https://controller.iu.edu/user/themes/iu/css/rivet.min.css" type="text/css" rel="stylesheet">
+<link href="https://controller.iu.edu/user/themes/iu/css/rivet-collapsible.min.css" type="text/css" rel="stylesheet">
+<link href="https://controller.iu.edu/user/themes/iu/css/search.css" type="text/css" rel="stylesheet">
+<link href="https://controller.iu.edu/user/themes/iu/css/custom.css?version=5" type="text/css" rel="stylesheet">
+
+<script src="https://controller.iu.edu/system/assets/jquery/jquery-3.x.min.js"></script>
+
+<style type="text/css">
+
+.odd_row
+{
+}
+
+#parm_block
+{
+}
+
+#parm_block table
+{
+}
+
+#parm_block th
+{
+vertical-align: middle;
+}
+
+#parm_block td
+{
+text-align: left;
+}
+
+#results
+{
+}
+
+#results th
+{
+}
+
+#results td
+{
+text-align: left;
+}
+
+.total_rows {
+text-align: right;
+}
+
+.total_rows td {
+font-weight: bold;
+}
+
+</style>
+
+<script type="text/javascript">
+<!--
+
+function SubmitValidValues(which_vv)
+{
+try
+{
+document.parm_form.choice.value = which_vv;
+document.parm_form.submit();
+}
+catch (err)
+{
+alert("Error: " + err);
+}
+}
+
+
+function clearForm()
+{
+try
+{
+document.reset_form.submit();
+}
+catch (err)
+{
+alert("Error: " + err);
+}
+}
+
+
+function submitForm()
+{
+try
+{
+document.parm_form.choice.value = "results"
+}
+catch (err)
+{
+alert("Error: " + err);
+}
+}
+
+
+function changeAvailableParms(year_to_check)
+{
+try
+{
+if (year_to_check < 2004) {
+document.getElementById("parm_rank").style.display = "";
+document.getElementById("parm_plan").style.display = "none";
+document.getElementById("parm_grade").style.display = "none";
+document.getElementById("parm_post").style.display = "none";
+document.getElementById("parm_class").style.display = "none";
+document.getElementById("parm_dept_id").style.display = "none";
+document.parm_form.sal_admin_plan.value = "";
+document.parm_form.grade.value = "";
+document.parm_form.admin_post.value = "";
+document.parm_form.class_id.value = "";
+document.parm_form.pos_dept_id.value = "";
+} else {
+if ( year_to_check < 2013 ) {
+document.getElementById("parm_dept_id").style.display = "none";
+document.parm_form.pos_dept_id.value = "";
+} else {
+document.getElementById("parm_dept_id").style.display = "";
+}
+document.getElementById("parm_rank").style.display = "none";
+document.getElementById("parm_plan").style.display = "";
+document.getElementById("parm_grade").style.display = "";
+document.getElementById("parm_post").style.display = "";
+document.getElementById("parm_class").style.display = "";
+document.parm_form.job_rank_cd.value = "";
+}
+}
+catch (err)
+{
+alert("Error: " + err);
+}
+}
+
+
+
+//-->
+</script>
+
+
+</head>
+
+<body>
+
+<header class="rvt-header rvt-header--light" role="banner">
+<a class="rvt-skip-link" href="#main-content">Skip to content</a>
+<div class="rvt-header__trident">
+<svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 41 48" aria-labelledby="iu-logo">
+<title id="iu-logo">Indiana University</title>
+<rect width="41" height="48" fill="#900"/>
+<polygon points="24.59 12.64 24.59 14.98 26.34 14.98 26.34 27.78 22.84 27.78 22.84 10.9 24.59 10.9 24.59 8.57 16.41 8.57 16.41 10.9 18.16 10.9 18.16 27.78 14.66 27.78 14.66 14.98 16.41 14.98 16.41 12.64 8.22 12.64 8.22 14.98 9.97 14.98 9.97 30.03 12.77 33.02 18.16 33.02 18.16 36.52 16.41 36.52 16.41 39.43 24.59 39.43 24.59 36.52 22.84 36.52 22.84 33.02 28 33.02 31.01 30.03 31.01 14.98 32.78 14.98 32.78 12.64 24.59 12.64" fill="#fff"/>
+</div>
+<span class="rvt-header__title">
+<a href="https://controller.iu.edu/">Office of the University Controller</a>
+</span>
+
+
+
+<div class="rvt-header__controls">
+<!-- Main inline nav element -->
+<nav class="rvt-header__main-nav main_nav" role="navigation" aria-label="Top">
+<ul>
+<li>
+<a href="https://controller.iu.edu/compliance">Compliance</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/services">Services</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/systems">Systems</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/contact">Contact</a>
+</li>
+<li >
+<a href="/search" title="Go to our Search Page" class="rvt-button rvt-button--secondary rvt-button--small search_button">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path d="M15.71,14.29,10.89,9.47a6,6,0,1,0-1.42,1.42l4.82,4.82a1,1,0,0,0,1.42,0A1,1,0,0,0,15.71,14.29ZM6,10a4,4,0,1,1,4-4A4,4,0,0,1,6,10Z" fill="currentColor"></path></svg>
+</a>
+</li>
+</ul>
+</nav>
+
+<!-- Drawer close button - shows on small screens -->
+<button type="button" class="rvt-drawer-button" aria-haspopup="true" aria-expanded="false" data-drawer-toggle="mobile-drawer-2">
+<span class="sr-only">Toggle menu</span>
+<svg aria-hidden="true" class="rvt-drawer-button-open" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<g fill="currentColor">
+<path d="M15,3H1A1,1,0,0,1,1,1H15a1,1,0,0,1,0,2Z"/>
+<path d="M15,9H1A1,1,0,0,1,1,7H15a1,1,0,0,1,0,2Z"/>
+<path d="M15,15H1a1,1,0,0,1,0-2H15a1,1,0,0,1,0,2Z"/>
+</g>
+</svg>
+<svg aria-hidden="true" class="rvt-drawer-button-close" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
+<path fill="currentColor" d="M9.41,8l5.29-5.29a1,1,0,0,0-1.41-1.41L8,6.59,2.71,1.29A1,1,0,0,0,1.29,2.71L6.59,8,1.29,13.29a1,1,0,1,0,1.41,1.41L8,9.41l5.29,5.29a1,1,0,0,0,1.41-1.41Z"/>
+</svg>
+</button>
+</div>
+
+<!--
+Drawer - small screens only
+-->
+<div class="rvt-drawer" aria-hidden="true" id="mobile-drawer-2">
+<!-- Drawer nav -->
+<nav class="rvt-drawer__nav" role="navigation">
+<ul>
+<li>
+<a href="https://controller.iu.edu/compliance">Compliance</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/services">Services</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/systems">Systems</a>
+</li>
+<li>
+<a href="https://controller.iu.edu/contact">Contact</a>
+</li>
+
+<li>
+<a href="https://controller.iu.edu/search" title="Go to our Search Page">Search</a>
+</li>
+</ul>
+<button type="button" class="rvt-drawer__bottom-close">Close nav</button>
+</nav>
+</div>
+
+</header>
+
+
+<main role="main" id="main-content">
+<div class="rvt-container rvt-m-top-md">
+
+<h3>IU Faculty/Staff Salary Listing</h3>
+
+<p class="rvt-m-top-sm rvt-text-center">
+<a href="/psgi/Salary/" class="rvt-button">Back to Search Page</a>
+</p>
+
+
+
+<div class="rvt-grid">
+<div class="rvt-grid__item">
+<p class="rvt-text-bold rvt-text-left">Fiscal Year: 2023</p>
+</div>
+<div class="rvt-grid__item">
+<p class="rvt-text-bold rvt-text-right">Total: <font color="#7D110C">69</font> rows found</p>
+</div>
+</div>
+
+<table id="results" class="rvt-table-stripes rvt-table-compact rvt-ts-xxs">
+<thead>
+<th>Name</th>
+<th>Campus</th>
+<th>Org</th>
+<th>Org Name</th>
+<th>Plan</th>
+<th>Grade</th>
+<th>Post</th>
+<th>Class</th>
+<th>Pos Nbr</th>
+<th>Pos Dept ID</th>
+<th>Pos Dept Name</th>
+<th>Salary</th>
+<th>FTE</th>
+<th>Months</th>
+</thead>
+<tr>
+<td>Angrick, MC</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAC</td>
+<td>2AS</td>
+<td></td>
+<td></td>
+<td>00052489</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$35,714.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Ashraf, N </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>LPS</td>
+<td>TS - Senior Lecturer</td>
+<td>00026923</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$78,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Bahramian, H </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FL5</td>
+<td>TL - Lecturer</td>
+<td>00052215</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$70,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Blanco Rodriguez, SA</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00039773</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$105,154.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Brown, GM</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004045</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$162,871.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Bullock, TR</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAE</td>
+<td>5AA</td>
+<td>FA5</td>
+<td>TL - Lecturer</td>
+<td>00004642</td>
+<td>IN-SCI</td>
+<td>IUPUI SCHOOL OF SCIENCE</td>
+<td style="text-align: right;">$49,054.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Caldeira, C </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>RSP</td>
+<td>RSP</td>
+<td></td>
+<td>00028719</td>
+<td>BL-INRS</td>
+<td>INFORMATICS RESEARCH</td>
+<td style="text-align: right;">$76,500.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Crandall, D </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAM</td>
+<td></td>
+<td>00020678</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$180,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Dalkilic, MM</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00020789</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$137,653.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Dundar, MM</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00033724</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$106,478.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Durresi, A </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00032540</td>
+<td>IN-SCI</td>
+<td>IUPUI SCHOOL OF SCIENCE</td>
+<td style="text-align: right;">$115,998.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Ergun, F </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004986</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$190,407.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Fang, S </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAL</td>
+<td></td>
+<td>00000318</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$205,893.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Freese-Posthuma, CJ</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAA</td>
+<td>2AS</td>
+<td></td>
+<td></td>
+<td>00047121</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$41,725.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Friedman, DP</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004973</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$180,399.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>German, D </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLS</td>
+<td>TS - Senior Lecturer</td>
+<td>00005049</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$82,464.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Hahn, M </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAM</td>
+<td></td>
+<td>00029064</td>
+<td>BL-BI</td>
+<td>BIOLOGY</td>
+<td style="text-align: right;">$139,671.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Harris, AJ</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLT</td>
+<td>PR - Professor</td>
+<td>00007614</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$83,939.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Hasan, MA</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00035418</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$112,569.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Heidari Khoozani, M </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00030320</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$104,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Hill, JH</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00034913</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$115,651.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Hmeljak, M </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLS</td>
+<td>TS - Senior Lecturer</td>
+<td>00042325</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$78,771.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Huang, Y </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00008538</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$118,497.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Hu, Q </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00040868</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$90,658.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Jang, H </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00051669</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$96,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Kapadia, A </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00023634</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$162,864.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Khoo, W </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>RSP</td>
+<td>RSP</td>
+<td></td>
+<td>00042212</td>
+<td>BL-CSRS</td>
+<td>COMPUTER SCIENCE RESEARCH</td>
+<td style="text-align: right;">$65,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Kulekci, O </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FVX</td>
+<td>FV1</td>
+<td>PR - Professor</td>
+<td>00039900</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$96,348.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Kurban, H </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FVX</td>
+<td>FV2</td>
+<td>PC - Associate Professor</td>
+<td>00040834</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$96,348.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Leake, DB</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004971</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$179,726.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Leivant, DM</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00008148</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$155,089.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Liang, Y </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00032202</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$123,184.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Liao, X </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00022922</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$106,932.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Li, S </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>RSX</td>
+<td>RS3</td>
+<td>RT - Assistant Scientist;Scholar</td>
+<td>00038763</td>
+<td>BL-CSRS</td>
+<td>COMPUTER SCIENCE RESEARCH</td>
+<td style="text-align: right;">$48,096.00</td>
+<td style="text-align: right;">0.7500</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Lu, L </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLT</td>
+<td>PR - Professor</td>
+<td>00011697</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$77,264.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Malbasa, V </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FCX</td>
+<td>FC1</td>
+<td>PR - Professor</td>
+<td>00043908</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$117,468.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Mikolon, L </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAA</td>
+<td>2FI</td>
+<td></td>
+<td></td>
+<td>00014177</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$31,832.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Mukhopadhyay, S </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00006197</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$127,396.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Nzabarushimana, E </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FVX</td>
+<td>FV8</td>
+<td></td>
+<td>00040807</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$48,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Pope, CE</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLS</td>
+<td>TS - Senior Lecturer</td>
+<td>00005042</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$86,615.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Raphael, CS</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00026760</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$158,162.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Rawlins, GJ</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00004988</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$85,135.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Reed, LL</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAA</td>
+<td>2AM</td>
+<td></td>
+<td></td>
+<td>00017333</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$43,805.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Sabry, AA</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004972</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$166,883.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Seiffert, KA</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FL5</td>
+<td>TL - Lecturer</td>
+<td>00044043</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$76,664.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Shan, C </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00004977</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$119,907.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Siddiqui, MA</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>LPS</td>
+<td>TS - Senior Lecturer</td>
+<td>00051207</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$79,560.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Siek, J </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00004989</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$149,691.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Song, F </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00039121</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$100,965.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Tang, D </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>RSP</td>
+<td>RSP</td>
+<td></td>
+<td>00041365</td>
+<td>BL-CSRS</td>
+<td>COMPUTER SCIENCE RESEARCH</td>
+<td style="text-align: right;">$65,432.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Tang, H </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAM</td>
+<td></td>
+<td>00026767</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$156,491.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Tang, W </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>RSX</td>
+<td>RS3</td>
+<td>RT - Assistant Scientist;Scholar</td>
+<td>00039772</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$68,687.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Tiganj, Z </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00039136</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$107,671.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Tobin-Hochstadt, S </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00004990</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$127,303.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Tsechpenakis, G </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00006196</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$105,149.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Tuceryan, M </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00009095</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$118,918.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Van Busum, KM</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FL5</td>
+<td>TL - Lecturer</td>
+<td>00010205</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$59,309.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Van Gucht, D </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00008540</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$158,619.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Wang, X </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00027567</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$181,850.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Wennstrom, EM</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLS</td>
+<td>TS - Senior Lecturer</td>
+<td>00037932</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$81,546.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Whitmer, J </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FLX</td>
+<td>FLS</td>
+<td>TS - Senior Lecturer</td>
+<td>00010257</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$80,078.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Wittlief, NM</td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>PAE</td>
+<td>4PM</td>
+<td></td>
+<td></td>
+<td>00053319</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$63,000.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">12</td>
+</tr>
+<tr>
+<td>Wood, JN</td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00045864</td>
+<td>BL-INFI</td>
+<td>DEPARTMENT OF INFORMATICS</td>
+<td style="text-align: right;">$127,477.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Xia, Y </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT2</td>
+<td>PC - Associate Professor</td>
+<td>00006198</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$97,229.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Xing, L </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT3</td>
+<td>PT - Assistant Professor</td>
+<td>00027130</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$108,695.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Ye, Y </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAL</td>
+<td></td>
+<td>00031828</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$145,898.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Zhang, Q </td class="">
+<td>BL</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>AAL</td>
+<td></td>
+<td>00038126</td>
+<td>BL-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$150,054.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Zheng, J </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00020610</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$113,304.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+<tr>
+<td>Zou, X </td class="">
+<td>IN</td>
+<td>CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td>AC1</td>
+<td>FTX</td>
+<td>FT1</td>
+<td>PR - Professor</td>
+<td>00027691</td>
+<td>IN-CSCI</td>
+<td>COMPUTER SCIENCE</td>
+<td style="text-align: right;">$110,395.00</td>
+<td style="text-align: right;">1.0000</td>
+<td style="text-align: center;">10</td>
+</tr>
+</table>
+
+<div class="rvt-grid">
+<div class="rvt-grid__item">
+<p class="rvt-text-bold rvt-text-left">Fiscal Year: 2023</p>
+</div>
+<div class="rvt-grid__item">
+<p class="rvt-text-bold rvt-text-right">Total: <font color="#7D110C">69</font> rows found</p>
+</div>
+</div>
+
+<p class="rvt-m-top-sm rvt-text-center">
+<a href="/psgi/Salary/" class="rvt-button">Back to Search Page</a>
+</p>
+
+
+</div>
+</main>
+
+
+<footer data-root-url="https://controller.iu.edu/">
+<div class="rvt-container rvt-container--center footer_info_section">
+<div class="rvt-grid rvt-ts-14 rvt-p-lr-xxl">
+<div class="rvt-grid__item-6-md-up rvt-m-tb-md">
+<h6>Related Sites</h6>
+<ul>
+<li><a href="https://vpcfo.iu.edu/" target="_new">Office of the VPCFO</a></li>
+<li><a href="https://www.budu.iu.edu/" target="_new">University Budget Office</a></li>
+<li><a href="https://purchasing.iu.edu/" target="_new">Purchasing</a></li>
+<li><a href="https://treasurer.iu.edu/" target="_new">Office of the Treasurer</a></li>
+<li><a href="https://iutravel.iu.edu/" target="_new">Travel Management Services</a></li>
+<li><a href="https://supplierdiversity.iu.edu/" target="_new">Supplier Diversity</a></li>
+<li><a href="https://inlocc.iu.edu/" target="_new">Insurance, Loss Control, & Claims</a></li>
+<li><a href="https://training.iu.edu/" target="_new">VPCFO Training & Communication</a></li>
+</ul>
+</div>
+<div class="rvt-grid__item-1-md-up rvt-m-tb-md">
+</div>
+<div class="rvt-grid__item-5-md-up rvt-m-tb-md">
+<a href="https://controller.iu.edu/contact"><h6>Where You Can Find Us</h6></a>
+<p style="margin-top: 0;">
+Music Practice Building<br />
+1024 E 3rd St.<br />
+Bloomington, IN 47405<br />
+<a href="https://controller.iu.edu/contact">Click here for our full Contact information</a>
+</p>
+</div>
+</div>
+</div>
+<div class="rvt-footer" role="contentinfo">
+<div class="rvt-footer__trident">
+<svg role="img" alt="" xmlns="http://www.w3.org/2000/svg" width="20" height="25" viewBox="0 0 20 25">
+<polygon points="13.33 3.32 13.33 5.21 14.76 5.21 14.76 15.64 11.9 15.64 11.9 1.9 13.33 1.9 13.33 0 6.67 0 6.67 1.9 8.09 1.9 8.09 15.64 5.24 15.64 5.24 5.21 6.67 5.21 6.67 3.32 0 3.32 0 5.21 1.43 5.21 1.43 17.47 3.7 19.91 8.09 19.91 8.09 22.76 6.67 22.76 6.67 25.13 13.33 25.13 13.33 22.76 11.9 22.76 11.9 19.91 16.1 19.91 18.56 17.47 18.56 5.21 20 5.21 20 3.32 13.33 3.32" fill="#900"/>
+</svg>
+</div>
+<ul class="rvt-footer__aux-links">
+<li class="rvt-footer__aux-item">
+<a href="https://accessibility.iu.edu/assistance/">Accessibility</a>
+</li>
+<li class="rvt-footer__aux-item">
+<!-- You can learn more about privacy policies and generate one
+for your site here:
+https://protect.iu.edu/online-safety/tools/privacy-notice/index.html -->
+<a href="https://controller.iu.edu/privacy">Privacy Notice</a>
+</li>
+<li class="rvt-footer__aux-item">
+<a href="https://controller.iu.edu/staff-only">UCO Staff Only</a>
+</li>
+<li class="rvt-footer__aux-item">
+<a href="https://www.iu.edu/copyright/index.html">Copyright</a> &copy; 2020 The Trustees of <a href="https://www.iu.edu/">Indiana University</a>
+</li>
+</ul>
+</div>
+</footer>
+
+
+<script src="https://controller.iu.edu/user/themes/iu/js/rivet.min.js"></script>
+<script src="https://controller.iu.edu/user/themes/iu/js/rivet-collapsible.min.js"></script>
+<script src="https://controller.iu.edu/user/themes/iu/js/custom_bottom.js"></script>
+
+
+</body>
+</html>

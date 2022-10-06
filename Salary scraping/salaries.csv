@@ -1,0 +1,1802 @@
+Year,Name,Campus,Org,Org Name,Plan,Grade,Post,Class,Pos Nbr,Pos Dept ID,Pos Dept Name,Salary,FTE,Months,
+1995,"BECKMAN, P",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$42,436.00",100.0000,12
+1995,"BOYD, CL",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$26,914.00",100.0000,12
+1995,"BRADLEY, TD",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$18,221.00",100.0000,12
+1995,"BRAMLEY, RB",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$54,807.00",100.0000,10
+1995,"CHEN, K",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$20,400.00",100.0000,12
+1995,"CHIN, RC",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$94,283.00",100.0000,12
+1995,"CYLIAX, I",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$50,255.00",100.0000,12
+1995,"DEY, TK",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$44,789.00",100.0000,10
+1995,"DYBVIG, RK",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$67,766.00",100.0000,10
+1995,"FISHER, JA",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$22,838.00",100.0000,12
+1995,"FRIEDMAN, DP",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$97,328.00",100.0000,10
+1995,"GANNON, DB",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$84,128.00",100.0000,10
+1995,"GARRETT, NL",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$29,349.00",100.0000,12
+1995,"GASSER, ME",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$53,659.00",100.0000,10
+1995,"HANSON, AJ",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$66,815.00",100.0000,10
+1995,"HAYNES, CT",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$59,922.00",100.0000,10
+1995,"HAYNES, SM",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$17,950.00",100.0000,12
+1995,"HEIFNER, D",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$24,544.00",100.0000,12
+1995,"HENDERSON, R",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$39,248.00",100.0000,12
+1995,"HESS, C",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$39,788.00",100.0000,12
+1995,"HOMEYER, SL",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$18,221.00",100.0000,12
+1995,"HUDLI, AV",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$48,490.00",100.0000,10
+1995,"HUNT, WA",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$41,929.00",100.0000,12
+1995,"JOHNSON, SD",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$75,747.00",91.0000,11
+1995,"JONES, LT",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$33,259.00",100.0000,12
+1995,"KAMMAN, A",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$32,507.00",100.0000,12
+1995,"KINZLER, S",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$37,596.00",100.0000,12
+1995,"LARSON, PJ",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$21,674.00",100.0000,12
+1995,"LEAKE, DB",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$54,237.00",100.0000,10
+1995,"LEIVANT, DM",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$109,152.00",100.0000,12
+1995,"MCKAMEY, NR",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$20,946.00",100.0000,12
+1995,"MCKIBBEN, AI",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$20,426.00",100.0000,12
+1995,"MENZEL, S",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$46,549.00",83.0000,10
+1995,"MILLS, JW",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$57,383.00",100.0000,10
+1995,"MONGIN, L",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$61,190.00",100.0000,12
+1995,"OLSON, A",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$55,128.00",100.0000,10
+1995,"PALAKAL, MJ",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$58,511.00",100.0000,10
+1995,"PROSSER, FP",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$89,919.00",100.0000,10
+1995,"PURDOM, PW",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$82,585.00",100.0000,10
+1995,"RAWLINS, GJ",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$55,980.00",100.0000,10
+1995,"ROBERTSON, EL",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$76,701.00",100.0000,10
+1995,"SCHUNK, S",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$37,915.00",100.0000,12
+1995,"SHEI, SB",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$40,813.00",100.0000,12
+1995,"SHIRLEY, P",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$56,172.00",100.0000,10
+1995,"SPRINGER, G",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$77,545.00",100.0000,10
+1995,"TRIBBET, CH",IN,CSCI,COMPUTER SCIENCE,,,,,,,,"$40,713.00",100.0000,12
+1995,"VAN GUCHT, D",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$62,407.00",100.0000,10
+1995,"VILLACIS, JE",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$40,000.00",100.0000,12
+1995,"WANG, X",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$29,592.00",100.0000,12
+1995,"WERNERT, EA",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$32,782.00",83.0000,10
+1995,"WHITMER, JM",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$32,885.00",100.0000,12
+1995,"WHITNEY, DS",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$38,549.00",100.0000,12
+1995,"WINKEL, DE",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$81,700.00",100.0000,10
+1995,"WINNICKA, B",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$41,200.00",100.0000,12
+1995,"WISE, DS",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$80,344.00",100.0000,10
+1995,"YANG, SX",BL,CSCI,COMPUTER SCIENCE,,,,,,,,"$42,024.00",100.0000,12
+1996,"Beckman, P",BL,CSCI,Computer Science,,,,,,,,"$44,134.00",1.0000,12
+1996,"Boyd, CL",IN,CSCI,Computer Science,,,,,,,,"$30,414.00",1.0000,12
+1996,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$56,862.00",1.0000,10
+1996,"Bruggeman, C",BL,CSCI,Computer Science,,,,,,,,"$3,584.00",0.0800,12
+1996,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$66,325.00",1.0000,10
+1996,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$97,677.00",1.0000,12
+1996,"Cyliax, I",BL,CSCI,Computer Science,,,,,,,,"$50,758.00",1.0000,12
+1996,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$69,460.00",1.0000,10
+1996,"Fisher, JA",BL,CSCI,Computer Science,,,,,,,,"$23,754.00",1.0000,12
+1996,"Fleisher, J",BL,CSCI,Computer Science,,,,,,,,"$20,426.00",1.0000,12
+1996,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$100,116.00",1.0000,10
+1996,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$86,916.00",1.0000,10
+1996,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$30,534.00",1.0000,12
+1996,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$55,159.00",1.0000,10
+1996,"Green, TA",BL,CSCI,Computer Science,,,,,,,,"$40,000.00",1.0000,12
+1996,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$68,419.00",1.0000,10
+1996,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$61,180.00",1.0000,10
+1996,"Heifner, D",BL,CSCI,Computer Science,,,,,,,,"$25,542.00",1.0000,12
+1996,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$41,309.00",1.0000,12
+1996,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$40,982.00",1.0000,12
+1996,"Hudli, AV",IN,CSCI,Computer Science,,,,,,,,"$49,490.00",1.0000,10
+1996,"Hunt, WA",BL,CSCI,Computer Science,,,,,,,,"$43,082.00",1.0000,12
+1996,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$70,444.00",1.0000,10
+1996,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$34,756.00",1.0000,12
+1996,"Kinzler, SB",BL,CSCI,Computer Science,,,,,,,,"$39,100.00",1.0000,12
+1996,"Larson, PJ",BL,CSCI,Computer Science,,,,,,,,"$22,547.00",1.0000,12
+1996,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$56,270.00",1.0000,10
+1996,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$93,052.00",1.0000,10
+1996,"Martin, SM",BL,CSCI,Computer Science,,,,,,,,"$28,489.00",1.0000,12
+1996,"McKamey, NR",BL,CSCI,Computer Science,,,,,,,,"$21,798.00",1.0000,12
+1996,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$47,829.00",0.8300,12
+1996,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$57,948.00",1.0000,10
+1996,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$46,000.00",1.0000,10
+1996,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$56,628.00",1.0000,10
+1996,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$61,711.00",1.0000,10
+1996,"Prosser, F",BL,CSCI,Computer Science,,,,,,,,"$91,178.00",1.0000,10
+1996,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$83,576.00",1.0000,10
+1996,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$56,651.00",1.0000,10
+1996,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$78,005.00",1.0000,10
+1996,"Schunk, SD",BL,CSCI,Computer Science,,,,,,,,"$38,768.00",1.0000,12
+1996,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$42,668.00",1.0000,12
+1996,"Springer, G",BL,CSCI,Computer Science,,,,,,,,"$39,587.00",0.5000,10
+1996,"Tribbet, CH",IN,CSCI,Computer Science,,,,,,,,"$42,148.00",1.0000,12
+1996,"Urbaczewski,",BL,CSCI,Computer Science,,,,,,,,"$40,039.00",1.0000,12
+1996,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$64,747.00",1.0000,10
+1996,"Villacis, JE",BL,CSCI,Computer Science,,,,,,,,"$41,600.00",1.0000,12
+1996,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$34,529.00",1.0000,12
+1996,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$81,469.00",1.0000,10
+1997,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$22,402.00",1.0000,12
+1997,"Boyd, CL",IN,CSCI,Computer Science,,,,,,,,"$33,234.00",1.0000,12
+1997,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$62,138.00",1.0000,10
+1997,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$68,225.00",1.0000,10
+1997,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$85,061.00",1.0000,10
+1997,"Cyliax, I",BL,CSCI,Computer Science,,,,,,,,"$51,608.00",1.0000,12
+1997,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$71,235.00",1.0000,10
+1997,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$46,740.00",1.0000,10
+1997,"Fleisher, J",BL,CSCI,Computer Science,,,,,,,,"$23,150.00",1.0000,12
+1997,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$102,475.00",1.0000,10
+1997,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$91,262.00",1.0000,10
+1997,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$31,616.00",1.0000,12
+1997,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$56,407.00",1.0000,10
+1997,"Green, TA",BL,CSCI,Computer Science,,,,,,,,"$40,000.00",1.0000,12
+1997,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$70,033.00",1.0000,10
+1997,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$62,142.00",1.0000,10
+1997,"Heifner, D",BL,CSCI,Computer Science,,,,,,,,"$26,437.00",1.0000,12
+1997,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$42,061.00",1.0000,12
+1997,"Hunt, WA",BL,CSCI,Computer Science,,,,,,,,"$22,057.00",0.5000,12
+1997,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$71,552.00",1.0000,10
+1997,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$35,754.00",1.0000,12
+1997,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$18,408.00",1.0000,12
+1997,"King, TL",BL,CSCI,Computer Science,,,,,,,,"$23,150.00",1.0000,12
+1997,"Kinzler, SB",BL,CSCI,Computer Science,,,,,,,,"$40,127.00",1.0000,12
+1997,"Larson, PJ",BL,CSCI,Computer Science,,,,,,,,"$23,338.00",1.0000,12
+1997,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$59,529.00",1.0000,10
+1997,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$94,913.00",1.0000,10
+1997,"Liu, YA",BL,CSCI,Computer Science,,,,,,,,"$57,321.00",1.0000,10
+1997,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$30,862.00",1.0000,12
+1997,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$49,088.00",0.8300,12
+1997,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$58,631.00",1.0000,10
+1997,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$47,840.00",1.0000,10
+1997,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$57,761.00",1.0000,10
+1997,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$40,800.00",1.0000,12
+1997,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$64,987.00",1.0000,10
+1997,"Pierce, B",BL,CSCI,Computer Science,,,,,,,,"$61,769.00",1.0000,10
+1997,"Prosser, F",BL,CSCI,Computer Science,,,,,,,,"$92,253.00",1.0000,10
+1997,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$84,890.00",1.0000,10
+1997,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$47,230.00",1.0000,10
+1997,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$57,319.00",1.0000,10
+1997,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$78,925.00",1.0000,10
+1997,"Schunk, SD",BL,CSCI,Computer Science,,,,,,,,"$39,604.00",0.8300,12
+1997,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$43,792.00",1.0000,12
+1997,"Smith, DM",BL,CSCI,Computer Science,,,,,,,,"$30,078.00",1.0000,12
+1997,"Smith, JL",BL,CSCI,Computer Science,,,,,,,,"$20,301.00",1.0000,12
+1997,"Stoller, SD",BL,CSCI,Computer Science,,,,,,,,"$56,297.00",1.0000,10
+1997,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$63,500.00",1.0000,10
+1997,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$66,401.00",1.0000,10
+1997,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$35,520.00",1.0000,12
+1997,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$82,750.00",1.0000,10
+1998,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$23,192.00",1.0000,12
+1998,"Boyd, CL",IN,CSCI,Computer Science,,,,,,,,"$34,397.00",1.0000,12
+1998,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$64,624.00",1.0000,10
+1998,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$70,270.00",1.0000,10
+1998,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$86,761.00",1.0000,10
+1998,"Chisham, SA",BL,CSCI,Computer Science,,,,,,,,"$41,090.00",1.0000,12
+1998,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$73,016.00",1.0000,10
+1998,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$48,610.00",1.0000,10
+1998,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$104,525.00",1.0000,10
+1998,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$96,600.00",1.0000,10
+1998,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$31,616.00",1.0000,12
+1998,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$58,472.00",1.0000,10
+1998,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$72,204.00",1.0000,10
+1998,"Harris, AJ",IN,CSCI,Computer Science,,,,,,,,"$41,400.00",1.0000,12
+1998,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$63,385.00",1.0000,10
+1998,"Heifner, D",BL,CSCI,Computer Science,,,,,,,,"$27,435.00",1.0000,12
+1998,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$49,201.00",1.0000,12
+1998,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$43,071.00",1.0000,12
+1998,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$73,341.00",1.0000,10
+1998,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$37,005.00",1.0000,12
+1998,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$18,928.00",1.0000,12
+1998,"King, TL",BL,CSCI,Computer Science,,,,,,,,"$24,149.00",1.0000,12
+1998,"Larson, PJ",BL,CSCI,Computer Science,,,,,,,,"$24,440.00",1.0000,12
+1998,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$61,910.00",1.0000,10
+1998,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$97,872.00",1.0000,10
+1998,"Liu, W",IN,CSCI,Computer Science,,,,,,,,"$50,794.00",1.0000,10
+1998,"Liu, YA",BL,CSCI,Computer Science,,,,,,,,"$59,614.00",1.0000,10
+1998,"Liu, Z",IN,CSCI,Computer Science,,,,,,,,"$52,530.00",1.0000,10
+1998,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$32,096.00",1.0000,12
+1998,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$50,561.00",0.8300,12
+1998,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$60,449.00",1.0000,10
+1998,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$49,754.00",1.0000,10
+1998,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$59,783.00",1.0000,10
+1998,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$42,228.00",1.0000,12
+1998,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$87,360.00",1.0000,12
+1998,"Pierce, B",BL,CSCI,Computer Science,,,,,,,,"$64,240.00",1.0000,10
+1998,"Prosser, F",BL,CSCI,Computer Science,,,,,,,,"$95,021.00",1.0000,10
+1998,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$87,012.00",1.0000,10
+1998,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$49,020.00",1.0000,10
+1998,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$58,867.00",1.0000,10
+1998,"Reed, L",BL,CSCI,Computer Science,,,,,,,,"$25,438.00",1.0000,12
+1998,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$79,951.00",1.0000,10
+1998,"Schunk, SD",BL,CSCI,Computer Science,,,,,,,,"$40,554.00",1.0000,12
+1998,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$45,305.00",1.0000,12
+1998,"Slavin, SD",BL,CSCI,Computer Science,,,,,,,,"$42,000.00",1.0000,12
+1998,"Smith, DM",BL,CSCI,Computer Science,,,,,,,,"$30,800.00",1.0000,12
+1998,"Smith, JL",BL,CSCI,Computer Science,,,,,,,,"$21,362.00",1.0000,12
+1998,"Stephens-Miller, TL",BL,CSCI,Computer Science,,,,,,,,"$19,198.00",1.0000,12
+1998,"Stoller, SD",BL,CSCI,Computer Science,,,,,,,,"$58,549.00",1.0000,10
+1998,"Temko, B",BL,CSCI,Computer Science,,,,,,,,"$41,000.00",1.0000,12
+1998,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$65,400.00",1.0000,10
+1998,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$69,057.00",1.0000,10
+1998,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$36,337.00",1.0000,12
+1998,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$85,233.00",1.0000,10
+1999,"Battersby, LG",BL,CSCI,Computer Science,,,,,,,,"$18,678.00",1.0000,12
+1999,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$24,128.00",1.0000,12
+1999,"Boshears, M",IN,CSCI,Computer Science,,,,,,,,"$32,000.00",1.0000,12
+1999,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$67,371.00",1.0000,10
+1999,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$73,081.00",1.0000,10
+1999,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$89,190.00",1.0000,10
+1999,"Chisham, SA",BL,CSCI,Computer Science,,,,,,,,"$41,510.00",1.0000,12
+1999,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$90,000.00",1.0000,10
+1999,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$60,040.00",1.0000,10
+1999,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$116,463.00",1.0000,10
+1999,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$101,430.00",1.0000,10
+1999,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$31,782.00",1.0000,12
+1999,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$60,892.00",1.0000,10
+1999,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$75,453.00",1.0000,10
+1999,"Harris, AJ",IN,CSCI,Computer Science,,,,,,,,"$43,139.00",1.0000,12
+1999,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$65,287.00",1.0000,10
+1999,"Heifner, D",BL,CSCI,Computer Science,,,,,,,,"$28,538.00",1.0000,12
+1999,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$61,001.00",1.0000,12
+1999,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$45,009.00",1.0000,12
+1999,"Himebaugh, B",BL,CSCI,Computer Science,,,,,,,,"$49,003.00",1.0000,12
+1999,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$75,908.00",1.0000,10
+1999,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$40,741.00",1.0000,12
+1999,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$21,757.00",1.0000,12
+1999,"King, TL",BL,CSCI,Computer Science,,,,,,,,"$24,960.00",1.0000,12
+1999,"Larson, PJ",BL,CSCI,Computer Science,,,,,,,,"$25,418.00",1.0000,12
+1999,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$64,541.00",1.0000,10
+1999,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$101,298.00",1.0000,10
+1999,"Liu, W",IN,CSCI,Computer Science,,,,,,,,"$52,826.00",1.0000,10
+1999,"Liu, YA",BL,CSCI,Computer Science,,,,,,,,"$62,237.00",1.0000,10
+1999,"Liu, Z",IN,CSCI,Computer Science,,,,,,,,"$54,316.00",1.0000,10
+1999,"Mart, DE",BL,CSCI,Computer Science,,,,,,,,"$18,637.00",1.0000,12
+1999,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$36,000.00",1.0000,12
+1999,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$52,836.00",0.8300,12
+1999,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$62,456.00",1.0000,10
+1999,"Minnick, AD",BL,CSCI,Computer Science,,,,,,,,"$40,046.00",1.0000,12
+1999,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$59,779.00",1.0000,10
+1999,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$62,174.00",1.0000,10
+1999,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$43,917.00",1.0000,12
+1999,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$93,981.00",1.0000,12
+1999,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$90,057.00",1.0000,10
+1999,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$57,981.00",1.0000,10
+1999,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$60,810.00",1.0000,10
+1999,"Reed, L",BL,CSCI,Computer Science,,,,,,,,"$26,728.00",1.0000,12
+1999,"Roberts, MS",IN,CSCI,Computer Science,,,,,,,,"$41,600.00",1.0000,12
+1999,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$82,749.00",1.0000,10
+1999,"Schunk, SD",BL,CSCI,Computer Science,,,,,,,,"$42,379.00",1.0000,12
+1999,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$58,864.00",1.0000,12
+1999,"Smith, DM",BL,CSCI,Computer Science,,,,,,,,"$31,108.00",1.0000,12
+1999,"Stoller, SD",BL,CSCI,Computer Science,,,,,,,,"$61,242.00",1.0000,10
+1999,"Temko, B",BL,CSCI,Computer Science,,,,,,,,"$43,706.00",1.0000,12
+1999,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$67,624.00",1.0000,10
+1999,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$72,130.00",1.0000,10
+1999,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$38,156.00",1.0000,10
+1999,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$88,387.00",1.0000,10
+2000,"Battersby, LG",BL,CSCI,Computer Science,,,,,,,,"$19,219.00",1.0000,12
+2000,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$25,334.00",1.0000,12
+2000,"Boshears, M",IN,CSCI,Computer Science,,,,,,,,"$33,940.00",1.0000,12
+2000,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$69,392.00",1.0000,10
+2000,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$76,297.00",1.0000,10
+2000,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$90,082.00",1.0000,10
+2000,"Choppella, V",BL,CSCI,Computer Science,,,,,,,,"$45,000.00",1.0000,12
+2000,"Crohn, LA",BL,CSCI,Computer Science,,,,,,,,"$41,917.00",1.0000,12
+2000,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$96,000.00",1.0000,10
+2000,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$62,982.00",1.0000,10
+2000,"Franzitta, ST",BL,CSCI,Computer Science,,,,,,,,"$41,917.00",1.0000,12
+2000,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$120,539.00",1.0000,10
+2000,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$94,500.00",0.7000,10
+2000,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$32,677.00",1.0000,12
+2000,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$62,215.00",1.0000,10
+2000,"George, EC",BL,CSCI,Computer Science,,,,,,,,"$29,786.00",1.0000,12
+2000,"German, D",BL,CSCI,Computer Science,,,,,,,,"$37,000.00",1.0000,10
+2000,"Hanek, G",BL,CSCI,Computer Science,,,,,,,,"$38,982.00",1.0000,10
+2000,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$80,202.00",1.0000,10
+2000,"Harris, AJ",IN,CSCI,Computer Science,,,,,,,,"$45,727.00",1.0000,12
+2000,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$66,266.00",1.0000,10
+2000,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$63,136.00",1.0000,12
+2000,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$46,584.00",1.0000,12
+2000,"Himebaugh, B",BL,CSCI,Computer Science,,,,,,,,"$50,718.00",1.0000,12
+2000,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$76,857.00",1.0000,10
+2000,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$42,167.00",1.0000,12
+2000,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$24,565.00",1.0000,12
+2000,"King, TL",BL,CSCI,Computer Science,,,,,,,,"$25,979.00",1.0000,12
+2000,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$66,477.00",1.0000,10
+2000,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$103,324.00",1.0000,10
+2000,"Lester, CK",IN,CSCI,Computer Science,,,,,,,,"$19,947.00",1.0000,12
+2000,"Liu, W",IN,CSCI,Computer Science,,,,,,,,"$55,911.00",1.0000,10
+2000,"Liu, YA",BL,CSCI,Computer Science,,,,,,,,"$74,077.00",1.0000,10
+2000,"Liu, Z",IN,CSCI,Computer Science,,,,,,,,"$55,945.00",1.0000,10
+2000,"Lorenzen, MC",BL,CSCI,Computer Science,,,,,,,,"$19,053.00",1.0000,12
+2000,"Mart, DE",BL,CSCI,Computer Science,,,,,,,,"$20,821.00",1.0000,12
+2000,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$40,000.00",1.0000,12
+2000,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$54,025.00",0.8300,12
+2000,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$63,393.00",1.0000,10
+2000,"Molnar, RS",IN,CSCI,Computer Science,,,,,,,,"$41,000.00",1.0000,12
+2000,"Mukhi, NK",BL,CSCI,Computer Science,,,,,,,,"$43,390.00",1.0000,12
+2000,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$63,720.00",1.0000,10
+2000,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$65,034.00",1.0000,10
+2000,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$49,560.00",1.0000,12
+2000,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$97,740.00",1.0000,12
+2000,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$91,183.00",1.0000,10
+2000,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$60,822.00",1.0000,10
+2000,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$61,427.00",1.0000,10
+2000,"Reed, L",BL,CSCI,Computer Science,,,,,,,,"$27,768.00",1.0000,12
+2000,"Roberts, MS",IN,CSCI,Computer Science,,,,,,,,"$43,264.00",1.0000,12
+2000,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$84,611.00",1.0000,10
+2000,"Schunk, SD",BL,CSCI,Computer Science,,,,,,,,"$43,862.00",1.0000,12
+2000,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$60,924.00",1.0000,12
+2000,"Smith, DM",BL,CSCI,Computer Science,,,,,,,,"$31,809.00",1.0000,12
+2000,"Stoller, SD",BL,CSCI,Computer Science,,,,,,,,"$72,893.00",1.0000,10
+2000,"Temko, B",BL,CSCI,Computer Science,,,,,,,,"$45,120.00",1.0000,12
+2000,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$70,194.00",1.0000,10
+2000,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$73,753.00",1.0000,10
+2000,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$38,919.00",1.0000,10
+2000,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$89,713.00",1.0000,10
+2001,"Battersby, LG",BL,CSCI,Computer Science,,,,,,,,"$19,885.00",1.0000,12
+2001,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$26,229.00",1.0000,12
+2001,"Boshears, M",IN,CSCI,Computer Science,,,,,,,,"$35,128.00",1.0000,12
+2001,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$80,000.00",1.0000,10
+2001,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$80,696.00",1.0000,10
+2001,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$90,983.00",1.0000,10
+2001,"Crohn, LA",BL,CSCI,Computer Science,,,,,,,,"$43,688.00",1.0000,12
+2001,"Cutu, F",BL,CSCI,Computer Science,,,,,,,,"$65,931.00",1.0000,10
+2001,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$98,400.00",1.0000,10
+2001,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$65,186.00",1.0000,10
+2001,"Franzitta, ST",BL,CSCI,Computer Science,,,,,,,,"$43,205.00",1.0000,12
+2001,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$123,552.00",1.0000,10
+2001,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$155,000.00",1.0000,10
+2001,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$33,654.00",1.0000,12
+2001,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$72,000.00",1.0000,10
+2001,"George, EC",BL,CSCI,Computer Science,,,,,,,,"$30,826.00",1.0000,12
+2001,"German, D",BL,CSCI,Computer Science,,,,,,,,"$38,480.00",1.0000,10
+2001,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$90,970.00",1.0000,10
+2001,"Harris, AJ",IN,CSCI,Computer Science,,,,,,,,"$47,327.00",1.0000,12
+2001,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$67,923.00",1.0000,10
+2001,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$65,112.00",1.0000,12
+2001,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$48,024.00",1.0000,12
+2001,"Himebaugh, B",BL,CSCI,Computer Science,,,,,,,,"$52,292.00",1.0000,12
+2001,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$83,031.00",1.0000,10
+2001,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$45,780.00",1.0000,12
+2001,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$25,418.00",1.0000,12
+2001,"Kisling, EL",BL,CSCI,Computer Science,,,,,,,,"$48,840.00",1.0000,12
+2001,"Kline, SM",BL,CSCI,Computer Science,,,,,,,,"$31,080.00",1.0000,12
+2001,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$77,000.00",1.0000,10
+2001,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$107,040.00",1.0000,10
+2001,"Lester, CK",IN,CSCI,Computer Science,,,,,,,,"$20,654.00",1.0000,12
+2001,"Liu, W",IN,CSCI,Computer Science,,,,,,,,"$55,911.00",1.0000,10
+2001,"Liu, Z",IN,CSCI,Computer Science,,,,,,,,"$57,344.00",1.0000,10
+2001,"Lorenzen, MC",BL,CSCI,Computer Science,,,,,,,,"$19,718.00",1.0000,12
+2001,"Mart, DE",BL,CSCI,Computer Science,,,,,,,,"$21,549.00",1.0000,12
+2001,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$42,000.00",1.0000,12
+2001,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$55,943.00",0.8300,12
+2001,"Mills, J",BL,CSCI,Computer Science,,,,,,,,"$64,819.00",1.0000,10
+2001,"Molnar, RS",IN,CSCI,Computer Science,,,,,,,,"$42,517.00",1.0000,12
+2001,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$67,141.00",1.0000,10
+2001,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$67,875.00",1.0000,10
+2001,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$51,295.00",1.0000,12
+2001,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$103,172.00",1.0000,12
+2001,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$93,463.00",1.0000,10
+2001,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$63,877.00",1.0000,10
+2001,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$62,963.00",1.0000,10
+2001,"Reed, L",BL,CSCI,Computer Science,,,,,,,,"$28,746.00",1.0000,12
+2001,"Roberts, MS",IN,CSCI,Computer Science,,,,,,,,"$44,895.00",1.0000,12
+2001,"Robertson, EL",BL,CSCI,Computer Science,,,,,,,,"$65,756.00",0.7500,10
+2001,"Sabry, A",BL,CSCI,Computer Science,,,,,,,,"$88,077.00",1.0000,10
+2001,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$62,828.00",1.0000,12
+2001,"Stailey, KA",BL,CSCI,Computer Science,,,,,,,,"$41,225.00",1.0000,12
+2001,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$72,510.00",1.0000,10
+2001,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$79,534.00",1.0000,10
+2001,"Waddell, O",BL,CSCI,Computer Science,,,,,,,,"$57,221.00",1.0000,10
+2001,"Whitehead, KS",BL,CSCI,Computer Science,,,,,,,,"$27,914.00",1.0000,12
+2001,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$40,476.00",1.0000,10
+2001,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$92,953.00",1.0000,10
+2001,"Zheng, JY",IN,CSCI,Computer Science,,,,,,,,"$70,040.00",1.0000,10
+2002,"Battersby, LG",BL,CSCI,Computer Science,,,,,,,,"$20,384.00",1.0000,12
+2002,"Beaman, DR",IN,CSCI,Computer Science,,,,,,,,"$26,894.00",1.0000,12
+2002,"Boshears, MR",IN,CSCI,Computer Science,,,,,,,,"$36,006.00",1.0000,12
+2002,"Bramley, RB",BL,CSCI,Computer Science,,,,,,,,"$57,733.00",0.6600,10
+2002,"Bukhres, O",IN,CSCI,Computer Science,,,,,,,,"$83,278.00",1.0000,10
+2002,"Chin, RC",IN,CSCI,Computer Science,,,,,,,,"$90,983.00",1.0000,10
+2002,"Crohn, LA",BL,CSCI,Computer Science,,,,,,,,"$44,918.00",1.0000,12
+2002,"Cutu, F",BL,CSCI,Computer Science,,,,,,,,"$70,579.00",1.0000,10
+2002,"Dybvig, RK",BL,CSCI,Computer Science,,,,,,,,"$100,597.00",1.0000,10
+2002,"Ellis, M",BL,CSCI,Computer Science,,,,,,,,"$39,634.00",1.0000,10
+2002,"Fang, S",IN,CSCI,Computer Science,,,,,,,,"$68,598.00",1.0000,10
+2002,"Franzitta, ST",BL,CSCI,Computer Science,,,,,,,,"$44,069.00",1.0000,12
+2002,"Friedman, DP",BL,CSCI,Computer Science,,,,,,,,"$126,378.00",1.0000,10
+2002,"Gannon, D",BL,CSCI,Computer Science,,,,,,,,"$108,500.00",0.6700,10
+2002,"Garrett, NL",BL,CSCI,Computer Science,,,,,,,,"$34,486.00",1.0000,12
+2002,"Gasser, M",BL,CSCI,Computer Science,,,,,,,,"$76,520.00",1.0000,10
+2002,"George, EC",BL,CSCI,Computer Science,,,,,,,,"$31,595.00",1.0000,12
+2002,"German, D",BL,CSCI,Computer Science,,,,,,,,"$39,829.00",1.0000,10
+2002,"Govindaraju, M",BL,CSCI,Computer Science,,,,,,,,"$41,820.00",1.0000,12
+2002,"Hanson, AJ",BL,CSCI,Computer Science,,,,,,,,"$95,064.00",1.0000,10
+2002,"Harris, AJ",IN,CSCI,Computer Science,,,,,,,,"$50,158.00",1.0000,12
+2002,"Haynes, C",BL,CSCI,Computer Science,,,,,,,,"$68,942.00",1.0000,10
+2002,"Henderson, R",BL,CSCI,Computer Science,,,,,,,,"$66,674.00",1.0000,12
+2002,"Hess, CM",BL,CSCI,Computer Science,,,,,,,,"$49,176.00",1.0000,12
+2002,"Himebaugh, B",BL,CSCI,Computer Science,,,,,,,,"$53,536.00",1.0000,12
+2002,"Huang, R",IN,CSCI,Computer Science,,,,,,,,"$62,165.00",1.0000,10
+2002,"Johnson, SD",BL,CSCI,Computer Science,,,,,,,,"$85,107.00",1.0000,10
+2002,"Jones, LT",BL,CSCI,Computer Science,,,,,,,,"$47,040.00",1.0000,12
+2002,"Kay, SL",BL,CSCI,Computer Science,,,,,,,,"$26,062.00",1.0000,12
+2002,"Kisling, EL",BL,CSCI,Computer Science,,,,,,,,"$50,193.00",1.0000,12
+2002,"Kline, SM",BL,CSCI,Computer Science,,,,,,,,"$31,980.00",1.0000,12
+2002,"Leake, DB",BL,CSCI,Computer Science,,,,,,,,"$28,156.00",0.3300,10
+2002,"Leivant, DM",BL,CSCI,Computer Science,,,,,,,,"$110,523.00",1.0000,10
+2002,"Lester, CK",IN,CSCI,Computer Science,,,,,,,,"$21,174.00",1.0000,12
+2002,"Liu, W",IN,CSCI,Computer Science,,,,,,,,"$57,588.00",1.0000,10
+2002,"Liu, Z",IN,CSCI,Computer Science,,,,,,,,"$57,344.00",1.0000,10
+2002,"Lorenzen, MC",BL,CSCI,Computer Science,,,,,,,,"$20,218.00",1.0000,12
+2002,"Lumsdaine, A",BL,CSCI,Computer Science,,,,,,,,"$98,207.00",1.0000,10
+2002,"Mart, DE",BL,CSCI,Computer Science,,,,,,,,"$22,090.00",1.0000,12
+2002,"McCloskey, LL",BL,CSCI,Computer Science,,,,,,,,"$43,003.00",1.0000,12
+2002,"Menzel, S",BL,CSCI,Computer Science,,,,,,,,"$57,341.00",0.8300,12
+2002,"Mills, JW",BL,CSCI,Computer Science,,,,,,,,"$65,791.00",1.0000,10
+2002,"Molnar, RS",IN,CSCI,Computer Science,,,,,,,,"$44,128.00",1.0000,12
+2002,"Mukhopadhyay, S",IN,CSCI,Computer Science,,,,,,,,"$70,162.00",1.0000,10
+2002,"Olson, AM",IN,CSCI,Computer Science,,,,,,,,"$70,794.00",1.0000,10
+2002,"Orr, SM",IN,CSCI,Computer Science,,,,,,,,"$52,577.00",1.0000,12
+2002,"Palakal, MJ",IN,CSCI,Computer Science,,,,,,,,"$107,518.00",1.0000,12
+2002,"Plale, BA",BL,CSCI,Computer Science,,,,,,,,"$48,920.00",0.6700,10
+2002,"Purdom, PW",BL,CSCI,Computer Science,,,,,,,,"$94,865.00",1.0000,10
+2002,"Raje, RR",IN,CSCI,Computer Science,,,,,,,,"$69,705.00",1.0000,10
+2002,"Rawlins, GJ",BL,CSCI,Computer Science,,,,,,,,"$63,907.00",1.0000,10
+2002,"Reed, L",BL,CSCI,Computer Science,,,,,,,,"$29,474.00",1.0000,12
+2002,"Roberts, MS",IN,CSCI,Computer Science,,,,,,,,"$46,242.00",1.0000,12
+2002,"Rossi, AL",BL,CSCI,Computer Science,,,,,,,,"$56,375.00",1.0000,12
+2002,"Sabry, A",BL,CSCI,Computer Science,,,,,,,,"$92,040.00",1.0000,10
+2002,"Shei, S",BL,CSCI,Computer Science,,,,,,,,"$64,325.00",1.0000,12
+2002,"Stailey, KA",BL,CSCI,Computer Science,,,,,,,,"$42,395.00",1.0000,12
+2002,"Townsend, TC",IN,CSCI,Computer Science,,,,,,,,"$35,000.00",1.0000,12
+2002,"Tuceryan, M",IN,CSCI,Computer Science,,,,,,,,"$74,903.00",1.0000,10
+2002,"Van Gucht, D",BL,CSCI,Computer Science,,,,,,,,"$83,522.00",1.0000,10
+2002,"Waddell, O",BL,CSCI,Computer Science,,,,,,,,"$59,224.00",1.0000,10
+2002,"Whitehead, KS",BL,CSCI,Computer Science,,,,,,,,"$28,621.00",1.0000,12
+2002,"Whitmer, JM",BL,CSCI,Computer Science,,,,,,,,"$41,690.00",1.0000,10
+2002,"Wise, DS",BL,CSCI,Computer Science,,,,,,,,"$95,943.00",1.0000,10
+2002,"Zheng, JY",IN,CSCI,Computer Science,,,,,,,,"$72,281.00",1.0000,10
+2003,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$42,714.00",1.0000,12
+2003,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$20,800.00",1.0000,12
+2003,"Boshears, MR",IN,CSCI,Computer Science,PA,11,-,,,,,"$36,726.00",1.0000,12
+2003,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$89,206.00",1.0000,10
+2003,"Bruns, LM",IN,CSCI,Computer Science,CL,06,-,,,,,"$27,352.00",1.0000,12
+2003,"Bukhres, O",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$84,944.00",1.0000,10
+2003,"Chin, RC",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$91,438.00",1.0000,10
+2003,"Chiu, K",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$23,702.00",0.5000,12
+2003,"Cowden, JE",BL,CSCI,Computer Science,SS,0D,-,,,,,"$20,613.00",1.0000,12
+2003,"Crohn, LA",BL,CSCI,Computer Science,PA,10,-,,,,,"$45,817.00",1.0000,12
+2003,"Cutu, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,000.00",1.0000,10
+2003,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$102,609.00",1.0000,10
+2003,"Ellis, M",BL,CSCI,Computer Science,AC1,FTX,FL5,TL - Lecturer,,,,"$40,823.00",1.0000,10
+2003,"Ellison-Soper, P",IN,CSCI,Computer Science,AC1,FLX,FV5,TL - Lecturer,,,,"$42,714.00",1.0000,12
+2003,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$70,484.00",1.0000,10
+2003,"Franzitta, ST",BL,CSCI,Computer Science,PA,10,-,,,,,"$44,950.00",1.0000,12
+2003,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$127,326.00",1.0000,10
+2003,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$167,632.00",1.0000,10
+2003,"Garrett, NL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$35,173.00",1.0000,12
+2003,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$78,597.00",1.0000,10
+2003,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$41,223.00",1.0000,10
+2003,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$101,148.00",1.0000,10
+2003,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$51,623.00",1.0000,12
+2003,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$69,342.00",1.0000,10
+2003,"Henderson, R",BL,CSCI,Computer Science,PA,17,-,,,,,"$68,006.00",1.0000,12
+2003,"Hess, CM",BL,CSCI,Computer Science,PA,12,-,,,,,"$50,160.00",1.0000,12
+2003,"He, Y",IN,CSCI,Computer Science,AC1,RSS,FV8,,,,,"$28,560.00",1.0000,12
+2003,"Himebaugh, BD",BL,CSCI,Computer Science,PA,14,-,,,,,"$54,606.00",1.0000,12
+2003,"Huang, R",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$64,758.00",1.0000,10
+2003,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$86,809.00",1.0000,10
+2003,"Jones, LT",BL,CSCI,Computer Science,PA,13,-,,,,,"$47,981.00",1.0000,12
+2003,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$27,893.00",1.0000,12
+2003,"Kisling, EL",BL,CSCI,Computer Science,AC1,FLX,AAM,TL - Lecturer,,,,"$51,554.00",1.0000,12
+2003,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$89,465.00",1.0000,10
+2003,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$112,955.00",1.0000,10
+2003,"Lester, CK",IN,CSCI,Computer Science,CL,04,-,,,,,"$21,590.00",1.0000,12
+2003,"Liu, W",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$83,996.00",1.0000,10
+2003,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$99,680.00",1.0000,10
+2003,"Mart, DE",BL,CSCI,Computer Science,SS,0E,-,,,,,"$22,526.00",1.0000,12
+2003,"McCloskey, LL",BL,CSCI,Computer Science,PA,12,-,,,,,"$43,864.00",1.0000,12
+2003,"Menzel, S",BL,CSCI,Computer Science,PA,11,FA5,,,,,"$58,488.00",0.8300,12
+2003,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$66,191.00",1.0000,10
+2003,"Molnar, RS",IN,CSCI,Computer Science,AC1,FLX,FT5,TL - Lecturer,,,,"$45,011.00",1.0000,12
+2003,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$79,267.00",1.0000,10
+2003,"Olson, AM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$72,209.00",1.0000,10
+2003,"Orr, SM",IN,CSCI,Computer Science,PA,14,FP5,,,,,"$53,629.00",1.0000,12
+2003,"Palakal, MJ",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$137,668.00",1.0000,12
+2003,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,000.00",1.0000,10
+2003,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$26,978.00",1.0000,12
+2003,"Purdom, PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$95,265.00",1.0000,10
+2003,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$71,936.00",1.0000,10
+2003,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$64,307.00",1.0000,10
+2003,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$30,056.00",1.0000,12
+2003,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FT5,TL - Lecturer,,,,"$47,167.00",1.0000,12
+2003,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$94,341.00",1.0000,10
+2003,"Shei, S",BL,CSCI,Computer Science,PA,14,-,,,,,"$65,611.00",1.0000,12
+2003,"Stailey, KA",BL,CSCI,Computer Science,PA,09,-,,,,,"$43,243.00",1.0000,12
+2003,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$76,176.00",1.0000,10
+2003,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$85,359.00",1.0000,10
+2003,"Waddell, OA",BL,CSCI,Computer Science,AC1,RSS,RSS,PT - Assistant Professor,,,,"$60,705.00",1.0000,10
+2003,"Whitehead, KS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$29,203.00",1.0000,12
+2003,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$42,649.00",1.0000,10
+2003,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$97,862.00",1.0000,10
+2003,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$73,365.00",1.0000,10
+2004,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$43,782.00",1.0000,12
+2004,"Barchet, LL",BL,CSCI,Computer Science,PA,12,-,,,,,"$44,741.00",1.0000,12
+2004,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$21,424.00",1.0000,12
+2004,"Boshears, MR",IN,CSCI,Computer Science,PA,11,-,,,,,"$37,663.00",1.0000,12
+2004,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$90,113.00",1.0000,10
+2004,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$100,900.00",1.0000,10
+2004,"Bruns, LM",IN,CSCI,Computer Science,CL,06,-,,,,,"$28,163.00",1.0000,12
+2004,"Bukhres, O",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$87,492.00",1.0000,10
+2004,"Burgoyne, JM",BL,CSCI,Computer Science,PA,13,-,,,,,"$62,220.00",1.0000,12
+2004,"Chin, RC",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$91,895.00",1.0000,10
+2004,"Christie, MA",BL,CSCI,Computer Science,PA,13,-,,,,,"$59,160.00",1.0000,12
+2004,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$75,762.00",1.0000,10
+2004,"Cowden, JE",BL,CSCI,Computer Science,SS,0D,-,,,,,"$21,237.00",1.0000,12
+2004,"Crohn, LA",BL,CSCI,Computer Science,PA,10,-,,,,,"$46,734.00",1.0000,12
+2004,"Cutu, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,753.00",1.0000,10
+2004,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$103,653.00",1.0000,10
+2004,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$81,984.00",1.0000,10
+2004,"Franzitta, ST",BL,CSCI,Computer Science,PA,10,-,,,,,"$45,848.00",1.0000,12
+2004,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$128,471.00",1.0000,10
+2004,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$171,823.00",1.0000,10
+2004,"Garrett, NL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$35,922.00",1.0000,12
+2004,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$79,501.00",1.0000,10
+2004,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$41,676.00",1.0000,10
+2004,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$102,362.00",1.0000,10
+2004,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$52,939.00",1.0000,12
+2004,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$69,827.00",1.0000,10
+2004,"Henderson, R",BL,CSCI,Computer Science,PA,17,-,,,,,"$69,365.00",1.0000,12
+2004,"Hess, CM",BL,CSCI,Computer Science,PA,12,-,,,,,"$51,163.00",1.0000,12
+2004,"Himebaugh, BD",BL,CSCI,Computer Science,PA,14,-,,,,,"$55,698.00",1.0000,12
+2004,"Hopkins, LA",BL,CSCI,Computer Science,PA,10,-,,,,,"$31,620.00",1.0000,12
+2004,"Huang, R",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$73,309.00",1.0000,10
+2004,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$87,692.00",1.0000,10
+2004,"Jones, LT",BL,CSCI,Computer Science,PA,13,-,,,,,"$48,941.00",1.0000,12
+2004,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$28,600.00",1.0000,12
+2004,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$94,539.00",1.0000,10
+2004,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,972.00",1.0000,10
+2004,"Lester, CK",IN,CSCI,Computer Science,CL,05,-,,,,,"$22,235.00",1.0000,12
+2004,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$102,368.00",1.0000,10
+2004,"Mart, DE",BL,CSCI,Computer Science,SS,0E,-,,,,,"$23,150.00",1.0000,12
+2004,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$66,787.00",1.0000,10
+2004,"Molnar, RS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$46,159.00",1.0000,12
+2004,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$86,973.00",1.0000,10
+2004,"Orr, SM",IN,CSCI,Computer Science,PA,14,-,,,,,"$54,997.00",1.0000,12
+2004,"Palakal, MJ",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$143,824.00",1.0000,12
+2004,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,960.00",1.0000,10
+2004,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$27,643.00",1.0000,12
+2004,"Purdom, PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$96,122.00",1.0000,10
+2004,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$83,936.00",1.0000,10
+2004,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$64,757.00",1.0000,10
+2004,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$30,805.00",1.0000,12
+2004,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$46,125.00",1.0000,12
+2004,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$48,676.00",1.0000,12
+2004,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$95,300.00",1.0000,10
+2004,"Shei, S",BL,CSCI,Computer Science,PA,14,-,,,,,"$66,924.00",1.0000,12
+2004,"Stailey, KA",BL,CSCI,Computer Science,PA,09,-,,,,,"$44,108.00",1.0000,12
+2004,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$78,461.00",1.0000,10
+2004,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$86,227.00",1.0000,10
+2004,"Whitehead, KS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$29,931.00",1.0000,12
+2004,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$43,035.00",1.0000,10
+2004,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$98,743.00",1.0000,10
+2004,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$81,365.00",1.0000,10
+2004,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$70,000.00",1.0000,10
+2005,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$44,789.00",1.0000,12
+2005,"Barchet, LL",BL,CSCI,Computer Science,PAE,12,-,,,,,"$46,000.00",1.0000,12
+2005,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$22,110.00",1.0000,12
+2005,"Boshears, MR",IN,CSCI,Computer Science,PAE,11,-,,,,,"$38,903.00",1.0000,12
+2005,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$93,087.00",1.0000,10
+2005,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$103,877.00",1.0000,10
+2005,"Bruns, LM",IN,CSCI,Computer Science,CL,06,-,,,,,"$29,037.00",1.0000,12
+2005,"Bukhres, O",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$87,842.00",1.0000,10
+2005,"Burgoyne, JM",BL,CSCI,Computer Science,PA,13,-,,,,,"$64,087.00",1.0000,12
+2005,"Canada, DS",BL,CSCI,Computer Science,SS,0E,-,,,,,"$23,629.00",1.0000,12
+2005,"Christie, MA",BL,CSCI,Computer Science,PA,13,-,,,,,"$60,935.00",1.0000,12
+2005,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$79,000.00",1.0000,10
+2005,"Crohn, LA",BL,CSCI,Computer Science,PAO,10,-,,,,,"$48,100.00",1.0000,12
+2005,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$30,701.00",1.0000,12
+2005,"Cutu, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$76,958.00",1.0000,10
+2005,"Dai, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$70,988.00",1.0000,10
+2005,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$106,866.00",1.0000,10
+2005,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$84,034.00",1.0000,10
+2005,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$132,261.00",1.0000,10
+2005,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$177,150.00",1.0000,10
+2005,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$82,352.00",1.0000,10
+2005,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$42,967.00",1.0000,10
+2005,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$79,387.00",1.0000,10
+2005,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$109,180.00",1.0000,10
+2005,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$54,104.00",1.0000,12
+2005,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$71,293.00",1.0000,10
+2005,"Henderson, R",BL,CSCI,Computer Science,PA,17,-,,,,,"$71,100.00",1.0000,12
+2005,"Hess, CM",BL,CSCI,Computer Science,PA,12,-,,,,,"$52,250.00",1.0000,12
+2005,"Himebaugh, BD",BL,CSCI,Computer Science,PA,14,-,,,,,"$57,125.00",1.0000,12
+2005,"Hopkins, LA",BL,CSCI,Computer Science,PAE,10,-,,,,,"$33,043.00",1.0000,12
+2005,"Huang, R",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,995.00",1.0000,10
+2005,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$90,279.00",1.0000,10
+2005,"Jones, LT",BL,CSCI,Computer Science,PA,13,-,,,,,"$50,325.00",1.0000,12
+2005,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$29,286.00",1.0000,12
+2005,"Kisling, EL",BL,CSCI,Computer Science,AC1,FPX,AAM,TL - Lecturer,,,,"$53,580.00",1.0000,12
+2005,"Langford, MK",IN,CSCI,Computer Science,CL,04,-,,,,,"$24,690.00",1.0000,12
+2005,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$97,659.00",1.0000,10
+2005,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$117,334.00",1.0000,10
+2005,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$110,370.00",1.0000,10
+2005,"Marru, S",BL,CSCI,Computer Science,PA,12,-,,,,,"$60,935.00",1.0000,12
+2005,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$63,900.00",1.0000,10
+2005,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$68,757.00",1.0000,10
+2005,"Molnar, RS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$47,082.00",1.0000,12
+2005,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$88,886.00",1.0000,10
+2005,"Orr, SM",IN,CSCI,Computer Science,PA,14,-,,,,,"$56,537.00",1.0000,12
+2005,"Palakal, MJ",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$148,146.00",1.0000,12
+2005,"Pallickara, SL",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$51,500.00",1.0000,12
+2005,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$85,000.00",1.0000,10
+2005,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$28,330.00",1.0000,12
+2005,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$41,660.00",1.0000,10
+2005,"Purdom, PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$98,958.00",1.0000,10
+2005,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$85,867.00",1.0000,10
+2005,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$66,131.00",1.0000,10
+2005,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$31,491.00",1.0000,12
+2005,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$47,140.00",1.0000,12
+2005,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$49,455.00",1.0000,12
+2005,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$98,111.00",1.0000,10
+2005,"Shei, S",BL,CSCI,Computer Science,PA,14,-,,,,,"$68,600.00",1.0000,12
+2005,"Stailey, KA",BL,CSCI,Computer Science,PAO,09,-,,,,,"$45,450.00",1.0000,12
+2005,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$80,030.00",1.0000,10
+2005,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$88,900.00",1.0000,10
+2005,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$44,240.00",1.0000,10
+2005,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$101,804.00",1.0000,10
+2005,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$82,748.00",1.0000,10
+2005,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$72,925.00",1.0000,10
+2006,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$45,700.00",1.0000,12
+2006,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$25,002.00",1.0000,12
+2006,"Boshears, MR",IN,CSCI,Computer Science,PAE,11,-,,,,,"$40,500.00",1.0000,12
+2006,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$102,396.00",1.0000,10
+2006,"Brown, BG",BL,CSCI,Computer Science,PAE,12,-,,,,,"$44,075.00",1.0000,12
+2006,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$106,734.00",1.0000,10
+2006,"Bruns, LM",IN,CSCI,Computer Science,CL,06,-,,,,,"$29,910.00",1.0000,12
+2006,"Bukhres, O",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$87,842.00",1.0000,10
+2006,"Burgoyne, JM",BL,CSCI,Computer Science,PAE,13,-,,,,,"$65,900.00",1.0000,12
+2006,"Canada, DS",BL,CSCI,Computer Science,SS,0E,-,,,,,"$24,274.00",1.0000,12
+2006,"Christie, MA",BL,CSCI,Computer Science,PAE,13,-,,,,,"$62,458.00",1.0000,12
+2006,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$82,752.00",1.0000,10
+2006,"Crohn, LA",BL,CSCI,Computer Science,PAO,10,-,,,,,"$49,303.00",1.0000,12
+2006,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,282.00",1.0000,12
+2006,"Cutu, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$78,882.00",1.0000,10
+2006,"Dai, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,000.00",1.0000,10
+2006,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$109,805.00",1.0000,10
+2006,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$87,000.00",1.0000,10
+2006,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$135,898.00",1.0000,10
+2006,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$182,465.00",1.0000,10
+2006,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$84,496.00",1.0000,10
+2006,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$44,256.00",1.0000,10
+2006,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$82,562.00",1.0000,10
+2006,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$112,455.00",1.0000,10
+2006,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$55,240.00",1.0000,12
+2006,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$73,254.00",1.0000,10
+2006,"Henderson, R",BL,CSCI,Computer Science,PAE,17,-,,,,,"$72,878.00",1.0000,12
+2006,"Hess, CM",BL,CSCI,Computer Science,PAE,12,-,,,,,"$53,556.00",1.0000,12
+2006,"Himebaugh, BD",BL,CSCI,Computer Science,PAE,14,-,,,,,"$58,553.00",1.0000,12
+2006,"Hopkins, LA",BL,CSCI,Computer Science,PAE,10,-,,,,,"$33,869.00",1.0000,12
+2006,"Huang, R",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$76,420.00",1.0000,10
+2006,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$97,276.00",1.0000,10
+2006,"Jones, LT",BL,CSCI,Computer Science,PAE,13,-,,,,,"$51,583.00",1.0000,12
+2006,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,282.00",1.0000,12
+2006,"Kibbey, CA",BL,CSCI,Computer Science,PAO,10,-,,,,,"$40,000.00",1.0000,12
+2006,"Kisling, EL",BL,CSCI,Computer Science,AC1,FPX,AAM,TL - Lecturer,,,,"$55,189.00",1.0000,12
+2006,"Langford, MK",IN,CSCI,Computer Science,CL,04,-,,,,,"$25,480.00",1.0000,12
+2006,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$100,589.00",1.0000,10
+2006,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$120,267.00",1.0000,10
+2006,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,038.00",1.0000,10
+2006,"Marru, S",BL,CSCI,Computer Science,PAE,12,-,,,,,"$62,458.00",1.0000,12
+2006,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$65,817.00",1.0000,10
+2006,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$70,648.00",1.0000,10
+2006,"Molnar, RS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$48,024.00",1.0000,12
+2006,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$89,953.00",1.0000,10
+2006,"Orr, SM",IN,CSCI,Computer Science,PAE,14,-,,,,,"$57,668.00",1.0000,12
+2006,"Palakal, MJ",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$154,408.00",1.0000,12
+2006,"Pallickara, SL",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$52,530.00",1.0000,12
+2006,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$93,500.00",1.0000,10
+2006,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$31,034.00",1.0000,12
+2006,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$42,806.00",1.0000,10
+2006,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$101,679.00",1.0000,10
+2006,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$87,500.00",1.0000,10
+2006,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$67,784.00",1.0000,10
+2006,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,282.00",1.0000,12
+2006,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$48,224.00",1.0000,12
+2006,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,000.00",1.0000,12
+2006,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$101,054.00",1.0000,10
+2006,"Sebastian, T",IN,CSCI,Computer Science,AC1,RSS,FV8,,,,,"$31,470.00",1.0000,12
+2006,"Shei, S",BL,CSCI,Computer Science,PAE,14,-,,,,,"$70,315.00",1.0000,12
+2006,"Stailey, KA",BL,CSCI,Computer Science,PAO,09,-,,,,,"$46,586.00",1.0000,12
+2006,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$81,310.00",1.0000,10
+2006,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$96,012.00",1.0000,10
+2006,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$45,457.00",1.0000,10
+2006,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,604.00",1.0000,10
+2006,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$71,260.00",1.0000,10
+2006,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$84,155.00",1.0000,10
+2006,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$75,500.00",1.0000,10
+2007,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$46,550.00",1.0000,12
+2007,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$25,709.00",1.0000,12
+2007,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$105,468.00",1.0000,10
+2007,"Brown, BG",BL,CSCI,Computer Science,PAE,12,-,,,,,"$46,720.00",1.0000,12
+2007,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$112,849.00",1.0000,10
+2007,"Burgoyne, JM",BL,CSCI,Computer Science,PAE,13,-,,,,,"$67,877.00",1.0000,12
+2007,"Canada, DS",BL,CSCI,Computer Science,SS,0E,-,,,,,"$24,835.00",1.0000,12
+2007,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$82,400.00",1.0000,10
+2007,"Christie, MA",BL,CSCI,Computer Science,PAE,13,-,,,,,"$64,332.00",1.0000,12
+2007,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$87,593.00",1.0000,10
+2007,"Crohn, LA",BL,CSCI,Computer Science,PAO,10,-,,,,,"$50,782.00",1.0000,12
+2007,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,843.00",1.0000,12
+2007,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,099.00",1.0000,10
+2007,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,HAL,PC - Associate Professor,,,,"$87,290.00",1.0000,10
+2007,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$138,276.00",1.0000,10
+2007,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$191,314.00",1.0000,10
+2007,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$87,755.00",1.0000,10
+2007,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$45,960.00",1.0000,10
+2007,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$86,566.00",1.0000,10
+2007,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$141,491.00",1.0000,12
+2007,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$59,040.00",1.0000,12
+2007,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$73,986.00",1.0000,10
+2007,"Henderson, R",BL,CSCI,Computer Science,PAE,17,-,,,,,"$75,064.00",1.0000,12
+2007,"Hess, CM",BL,CSCI,Computer Science,PAE,12,-,,,,,"$55,163.00",1.0000,12
+2007,"Himebaugh, BD",BL,CSCI,Computer Science,PAE,14,-,,,,,"$60,310.00",1.0000,12
+2007,"Hopkins, LA",BL,CSCI,Computer Science,PAE,10,FP5,,,,,"$37,256.00",1.0000,12
+2007,"Huang, R",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$76,420.00",1.0000,10
+2007,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$100,194.00",1.0000,10
+2007,"Jones, LT",BL,CSCI,Computer Science,PAE,13,-,,,,,"$53,130.00",1.0000,12
+2007,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,843.00",1.0000,12
+2007,"Kibbey, CA",BL,CSCI,Computer Science,PAO,10,-,,,,,"$41,200.00",1.0000,12
+2007,"Kisling, EL",BL,CSCI,Computer Science,AC1,FPX,AAM,PT - Assistant Professor,,,,"$56,017.00",1.0000,12
+2007,"Langford, MK",IN,CSCI,Computer Science,CL,04,-,,,,,"$25,875.00",1.0000,12
+2007,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$106,353.00",1.0000,10
+2007,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$122,372.00",1.0000,10
+2007,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$125,000.00",1.0000,10
+2007,"Marru, S",BL,CSCI,Computer Science,PAE,12,-,,,,,"$64,332.00",1.0000,12
+2007,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$68,351.00",1.0000,10
+2007,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$71,884.00",1.0000,10
+2007,"Molnar, RS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$48,500.00",1.0000,12
+2007,"Morrison, JD",IN,CSCI,Computer Science,PAE,11,-,,,,,"$40,400.00",1.0000,12
+2007,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$91,453.00",1.0000,10
+2007,"Orr, SM",IN,CSCI,Computer Science,PAE,14,-,,,,,"$58,711.00",1.0000,12
+2007,"Pallickara, SL",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$26,265.00",0.5000,12
+2007,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$122,140.00",1.0000,10
+2007,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$31,595.00",1.0000,12
+2007,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$44,454.00",1.0000,10
+2007,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,729.00",1.0000,10
+2007,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$90,130.00",1.0000,10
+2007,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$68,462.00",1.0000,10
+2007,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$32,843.00",1.0000,12
+2007,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$49,124.00",1.0000,12
+2007,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$51,200.00",1.0000,12
+2007,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$111,159.00",1.0000,10
+2007,"Shei, S",BL,CSCI,Computer Science,PAE,14,-,,,,,"$72,424.00",1.0000,12
+2007,"Stailey, KA",BL,CSCI,Computer Science,PAO,09,-,,,,,"$47,984.00",1.0000,12
+2007,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$83,310.00",1.0000,10
+2007,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$101,513.00",1.0000,10
+2007,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$47,207.00",1.0000,10
+2007,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,742.00",1.0000,10
+2007,"Wittlief, NM",IN,CSCI,Computer Science,CL,06,-,,,,,"$30,618.00",1.0000,12
+2007,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$72,360.00",1.0000,10
+2007,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$86,155.00",1.0000,10
+2007,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$77,467.00",1.0000,10
+2008,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,513.00",1.0000,12
+2008,"Allen, JT",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$46,550.00",1.0000,12
+2008,"Battersby, LG",BL,CSCI,Computer Science,SS,0D,-,,,,,"$29,016.00",1.0000,12
+2008,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$110,741.00",1.0000,10
+2008,"Brown, BG",BL,CSCI,Computer Science,PAE,3AD,-,,,,,"$50,000.00",1.0000,12
+2008,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$123,277.00",1.0000,10
+2008,"Burgoyne, JM",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$67,877.00",1.0000,12
+2008,"Canada, DS",BL,CSCI,Computer Science,SS,0E,-,,,,,"$26,666.00",1.0000,12
+2008,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$86,108.00",1.0000,10
+2008,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$93,287.00",1.0000,10
+2008,"Crohn, LA",BL,CSCI,Computer Science,PAO,2IT,-,,,,,"$53,397.00",1.0000,12
+2008,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,,,,"$34,590.00",1.0000,12
+2008,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$119,319.00",1.0000,10
+2008,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PC - Associate Professor,,,,"$130,000.00",1.0000,12
+2008,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$143,807.00",1.0000,10
+2008,"Gannon, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$201,836.00",1.0000,10
+2008,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$91,633.00",1.0000,10
+2008,"German, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,556.00",1.0000,10
+2008,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$91,760.00",1.0000,10
+2008,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$150,334.00",1.0000,12
+2008,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$60,515.00",1.0000,12
+2008,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$75,836.00",1.0000,10
+2008,"Henderson, R",BL,CSCI,Computer Science,PAE,4IT,-,,,,,"$80,064.00",1.0000,12
+2008,"Hess, CM",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$57,386.00",1.0000,12
+2008,"Himebaugh, BD",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$63,633.00",1.0000,12
+2008,"Hopkins, LA",BL,CSCI,Computer Science,PAE,3SA,FP5,,,,,"$44,000.00",1.0000,12
+2008,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,202.00",1.0000,10
+2008,"Jones, LT",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$55,308.00",1.0000,12
+2008,"Kay, SL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$34,590.00",1.0000,12
+2008,"Langford, MK",IN,CSCI,Computer Science,CL,04,-,,,,,"$26,520.00",1.0000,12
+2008,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,266.00",1.0000,10
+2008,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$127,879.00",1.0000,10
+2008,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$82,949.00",1.0000,10
+2008,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$132,500.00",1.0000,10
+2008,"Marru, S",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$69,157.00",1.0000,12
+2008,"Mattox, TI",BL,CSCI,Computer Science,AC1,FVX,FV8,,,,,"$75,194.00",1.0000,12
+2008,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$72,794.00",1.0000,10
+2008,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$74,759.00",1.0000,10
+2008,"Morrison, JD",IN,CSCI,Computer Science,PAE,3SA,-,,,,,"$42,010.00",1.0000,12
+2008,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$93,739.00",1.0000,10
+2008,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$127,655.00",1.0000,10
+2008,"Polley, TR",BL,CSCI,Computer Science,SS,0F,-,,,,,"$34,590.00",1.0000,12
+2008,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$47,788.00",1.0000,10
+2008,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,871.00",1.0000,10
+2008,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$93,883.00",1.0000,10
+2008,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$70,516.00",1.0000,10
+2008,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,,,,"$33,987.00",1.0000,12
+2008,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,224.00",1.0000,12
+2008,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$53,758.00",1.0000,12
+2008,"Robertson, EL",BL,CSCI,Computer Science,AC1,AAJ,FT1,PR - Professor,,,,"$132,591.00",1.0000,12
+2008,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$117,273.00",1.0000,10
+2008,"Shei, S",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$75,531.00",1.0000,12
+2008,"Stailey, KA",BL,CSCI,Computer Science,PAO,2IT,-,,,,,"$49,553.00",1.0000,12
+2008,"Terkhorn, MS",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$51,728.00",1.0000,12
+2008,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$86,393.00",1.0000,10
+2008,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,604.00",1.0000,10
+2008,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$51,928.00",1.0000,10
+2008,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,129.00",1.0000,10
+2008,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,,,,"$36,225.00",1.0000,12
+2008,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,169.00",1.0000,10
+2008,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$88,309.00",1.0000,10
+2008,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,444.00",1.0000,10
+2009,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,513.00",1.0000,12
+2009,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$110,741.00",1.0000,10
+2009,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$123,277.00",1.0000,10
+2009,"Cao, B",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$56,000.00",1.0000,12
+2009,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$86,108.00",1.0000,10
+2009,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$102,616.00",1.0000,10
+2009,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$75,000.00",1.0000,10
+2009,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$119,319.00",1.0000,10
+2009,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PC - Associate Professor,,,,"$135,000.00",1.0000,12
+2009,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$143,807.00",1.0000,10
+2009,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$91,633.00",1.0000,10
+2009,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$50,556.00",1.0000,10
+2009,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$91,760.00",1.0000,10
+2009,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$125,278.00",1.0000,10
+2009,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$60,515.00",1.0000,12
+2009,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$75,836.00",1.0000,10
+2009,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$88,184.00",1.0000,10
+2009,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,202.00",1.0000,10
+2009,"Kim, D",BL,CSCI,Computer Science,PAE,2IT,-,,,,,"$50,104.00",1.0000,12
+2009,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,266.00",1.0000,10
+2009,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$127,879.00",1.0000,10
+2009,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$82,949.00",1.0000,10
+2009,"Marru, S",BL,CSCI,Computer Science,PAE,3IT,-,,,,,"$69,157.00",1.0000,12
+2009,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$72,794.00",1.0000,10
+2009,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$74,759.00",1.0000,10
+2009,"Morrison, JD",IN,CSCI,Computer Science,PAE,3SA,-,,,,,"$42,010.00",1.0000,12
+2009,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$93,739.00",1.0000,10
+2009,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$127,655.00",1.0000,10
+2009,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$52,567.00",1.0000,10
+2009,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,871.00",1.0000,10
+2009,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$98,883.00",1.0000,10
+2009,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$70,516.00",1.0000,10
+2009,"Roberts, DB",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,224.00",1.0000,12
+2009,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$53,758.00",1.0000,12
+2009,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAM,PR - Professor,,,,"$117,273.00",1.0000,10
+2009,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$86,393.00",1.0000,10
+2009,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,604.00",1.0000,10
+2009,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$51,928.00",1.0000,10
+2009,"Whittaker, D",IN,CSCI,Computer Science,CL,04,-,,,,,"$26,000.00",1.0000,12
+2009,"Wise, DS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,129.00",1.0000,10
+2009,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,,,,"$36,225.00",1.0000,12
+2009,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$89,942.00",1.0000,10
+2009,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,169.00",1.0000,10
+2009,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$88,309.00",1.0000,10
+2009,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$83,944.00",1.0000,10
+2010,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$50,513.00",1.0000,12
+2010,"Ahmed, AJ",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$90,000.00",1.0000,10
+2010,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$110,741.00",1.0000,10
+2010,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$123,277.00",1.0000,10
+2010,"Byrd, WE",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$70,000.00",1.0000,12
+2010,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$86,108.00",1.0000,10
+2010,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$100,750.00",1.0000,10
+2010,"Debon, D",IN,CSCI,Computer Science,PAO,2IT,-,,,,,"$41,850.00",1.0000,12
+2010,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$75,000.00",1.0000,10
+2010,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$119,319.00",1.0000,10
+2010,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$135,000.00",1.0000,12
+2010,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$143,807.00",1.0000,10
+2010,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$91,633.00",1.0000,10
+2010,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$50,556.00",1.0000,10
+2010,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$99,101.00",1.0000,10
+2010,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$125,278.00",1.0000,10
+2010,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$60,515.00",1.0000,12
+2010,"Hauser, KK",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$90,000.00",1.0000,10
+2010,"Haynes, C",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$75,836.00",1.0000,10
+2010,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$78,000.00",1.0000,10
+2010,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$88,184.00",1.0000,10
+2010,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,202.00",1.0000,10
+2010,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$113,266.00",1.0000,10
+2010,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$127,879.00",1.0000,10
+2010,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$85,449.00",1.0000,10
+2010,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$132,500.00",1.0000,10
+2010,"Marru, S",BL,CSCI,Computer Science,PAE,4IT,-,,,,,"$90,000.00",1.0000,12
+2010,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$72,794.00",1.0000,10
+2010,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$74,759.00",1.0000,10
+2010,"Morrison, JD",IN,CSCI,Computer Science,PAE,3SA,-,,,,,"$42,010.00",1.0000,12
+2010,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$98,739.00",1.0000,10
+2010,"Orr, SM",IN,CSCI,Computer Science,PAE,3IT,-,,,,,"$60,829.00",1.0000,12
+2010,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$127,655.00",1.0000,10
+2010,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$52,567.00",1.0000,10
+2010,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,871.00",1.0000,10
+2010,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$98,883.00",1.0000,10
+2010,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$70,516.00",1.0000,10
+2010,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$53,758.00",1.0000,12
+2010,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$117,273.00",1.0000,10
+2010,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$86,393.00",1.0000,10
+2010,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$107,604.00",1.0000,10
+2010,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$51,928.00",1.0000,10
+2010,"Whittaker, D",IN,CSCI,Computer Science,CL,04,-,,,,,"$26,000.00",1.0000,12
+2010,"Willcock, J",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$72,500.00",1.0000,12
+2010,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,,,,"$36,234.00",1.0000,12
+2010,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$97,137.00",1.0000,10
+2010,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$74,169.00",1.0000,10
+2010,"Zalewski, M",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$70,000.00",1.0000,12
+2010,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$88,309.00",1.0000,10
+2010,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$83,944.00",1.0000,10
+2011,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$52,367.00",1.0000,12
+2011,"Ahmed, AJ",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$94,799.00",1.0000,10
+2011,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$114,414.00",1.0000,10
+2011,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$128,370.00",1.0000,10
+2011,"Byrd, WE",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$73,903.00",1.0000,12
+2011,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$89,030.00",1.0000,10
+2011,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$117,542.00",1.0000,10
+2011,"Duncan, J",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,,,,"$38,250.00",1.0000,10
+2011,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,693.00",1.0000,10
+2011,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$90,103.00",1.0000,10
+2011,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$126,966.00",1.0000,10
+2011,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$144,187.00",1.0000,12
+2011,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$91,683.00",1.0000,10
+2011,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$149,567.00",1.0000,10
+2011,"Gasser, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$97,646.00",1.0000,10
+2011,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$55,526.00",1.0000,10
+2011,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$107,973.00",1.0000,10
+2011,"Hanson, AJ",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$131,609.00",1.0000,10
+2011,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$65,194.00",1.0000,12
+2011,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$76,125.00",1.0000,10
+2011,"Hauser, KK",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$93,211.00",1.0000,10
+2011,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,160.00",1.0000,10
+2011,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$90,988.00",1.0000,10
+2011,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,,,,"$110,435.00",1.0000,10
+2011,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$126,606.00",1.0000,10
+2011,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$133,341.00",1.0000,10
+2011,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$90,202.00",1.0000,10
+2011,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$138,174.00",1.0000,10
+2011,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$77,319.00",1.0000,10
+2011,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$78,017.00",1.0000,10
+2011,"Morrison, JD",IN,CSCI,Computer Science,PAE,3SA,-,,,,,"$44,293.00",1.0000,12
+2011,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$104,377.00",1.0000,10
+2011,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$144,222.00",1.0000,10
+2011,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$60,000.00",1.0000,10
+2011,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$110,835.00",1.0000,10
+2011,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$102,518.00",1.0000,10
+2011,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$73,252.00",1.0000,10
+2011,"Reddington, NA",IN,CSCI,Computer Science,CL,04,-,,,,,"$26,000.00",1.0000,12
+2011,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$55,732.00",1.0000,12
+2011,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$126,548.00",1.0000,10
+2011,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$77,330.00",1.0000,10
+2011,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$91,770.00",1.0000,10
+2011,"Upoma, AM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,,,,"$52,520.00",1.0000,10
+2011,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,,,,"$119,196.00",1.0000,10
+2011,"Wang, L",BL,CSCI,Computer Science,PAE,4IT,-,,,,,"$77,000.00",1.0000,12
+2011,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,,,,"$57,265.00",1.0000,10
+2011,"Willcock, J",BL,CSCI,Computer Science,AC1,RSP,RSP,,,,,"$76,541.00",1.0000,12
+2011,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,,,,"$38,688.00",1.0000,12
+2011,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$103,165.00",1.0000,10
+2011,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,,,,"$80,372.00",1.0000,10
+2011,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$96,522.00",1.0000,10
+2011,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,,,,"$87,132.00",1.0000,10
+2012,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$53,124.00",1.0000,12
+2012,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$115,444.00",1.0000,10
+2012,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$131,451.00",1.0000,10
+2012,"Byrd, WE",BL,CSCI,Computer Science,AC1,RSP,RSP,TL - Lecturer,00001083,BL-CSCI,COMPUTER SCIENCE,"$75,529.00",1.0000,12
+2012,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$90,650.00",1.0000,10
+2012,"Connelly, KH",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00022067,BL-CSCI,COMPUTER SCIENCE,"$120,434.00",1.0000,10
+2012,"Cottam, JA",BL,CSCI,Computer Science,AC1,RSP,RSP,,00026979,UA-VPIT,VICE PRES INFORMATION TECHNLGY,"$70,000.00",1.0000,12
+2012,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$81,863.00",1.0000,10
+2012,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00032540,IN-SCI,SCIENCE,"$91,413.00",1.0000,10
+2012,"Dybvig, RK",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00013807,BL-CSCI,COMPUTER SCIENCE,"$126,966.00",1.0000,10
+2012,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$146,494.00",1.0000,12
+2012,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00026522,BL-INFO,INFORMATICS,"$94,149.00",1.0000,10
+2012,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$153,201.00",1.0000,10
+2012,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$56,631.00",1.0000,10
+2012,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$111,266.00",1.0000,10
+2012,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$66,139.00",1.0000,12
+2012,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$79,170.00",1.0000,10
+2012,"Hauser, KK",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$95,241.00",1.0000,10
+2012,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$81,320.00",1.0000,10
+2012,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-INFO,INFORMATICS,"$99,359.00",1.0000,10
+2012,"Johnson, SD",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$113,196.00",1.0000,10
+2012,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004992,BL-CSCI,COMPUTER SCIENCE,"$130,088.00",1.0000,10
+2012,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$135,768.00",1.0000,10
+2012,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$91,512.00",1.0000,10
+2012,"Lowe, RA",BL,CSCI,Computer Science,PAO,2AD,-,,00035764,BL-CSCI,COMPUTER SCIENCE,"$45,053.00",1.0000,12
+2012,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$170,198.00",1.0000,10
+2012,"Martin, BD",BL,CSCI,Computer Science,PAE,3IT,-,,00036552,BL-CSCI,COMPUTER SCIENCE,"$52,988.00",1.0000,12
+2012,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$79,519.00",1.0000,10
+2012,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$79,000.00",1.0000,10
+2012,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$105,887.00",1.0000,10
+2012,"Mutsuddi, AU",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00035810,BL-INFO,INFORMATICS,"$53,515.00",1.0000,10
+2012,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$92,286.00",1.0000,10
+2012,"Plale, BA",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004975,BL-CSCI,COMPUTER SCIENCE,"$148,246.00",1.0000,10
+2012,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$61,515.00",1.0000,10
+2012,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$112,110.00",1.0000,10
+2012,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$104,008.00",1.0000,10
+2012,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$74,475.00",1.0000,10
+2012,"Reddington, NA",IN,CSCI,Computer Science,CL,04,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$26,395.00",1.0000,12
+2012,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$56,542.00",1.0000,12
+2012,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAM,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$129,623.00",1.0000,10
+2012,"Swany, DM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00008512,BL-CSCI,COMPUTER SCIENCE,"$130,982.00",1.0000,10
+2012,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$79,650.00",1.0000,10
+2012,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$98,179.00",1.0000,10
+2012,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$122,295.00",1.0000,10
+2012,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$58,697.00",1.0000,10
+2012,"Willcock, J",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037434,BL-CSCI,COMPUTER SCIENCE,"$78,225.00",1.0000,12
+2012,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$39,270.00",1.0000,12
+2012,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027130,BL-INFO,INFORMATICS,"$106,293.00",1.0000,10
+2012,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$85,037.00",1.0000,10
+2012,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$97,992.00",1.0000,10
+2012,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$88,392.00",1.0000,10
+2013,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$53,924.00",1.0000,12
+2013,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$116,598.00",1.0000,10
+2013,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$134,211.00",1.0000,10
+2013,"Chakraborty, A",BL,CSCI,Computer Science,AC1,RSP,RSP,,00024599,UA-VPIT,VICE PRESIDENT INFORMATION TEC,"$67,210.00",1.0000,12
+2013,"Chandrasekar, K",BL,CSCI,Computer Science,PAE,3IT,-,,00036425,BL-INFO,INFORMATICS,"$59,640.00",1.0000,12
+2013,"Chauhan, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$92,378.00",1.0000,10
+2013,"Cottam, JA",BL,CSCI,Computer Science,AC1,RSP,RSP,,00029741,BL-CSCI,COMPUTER SCIENCE,"$72,613.00",1.0000,12
+2013,"D'Alessandro, LK",BL,CSCI,Computer Science,AC1,RSS,RSS,,00019957,BL-CSCI,COMPUTER SCIENCE,"$71,400.00",1.0000,12
+2013,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-INFO,INFORMATICS,"$109,149.00",1.0000,10
+2013,"Diaz, FE",BL,CSCI,Computer Science,PAE,4IT,-,,00038869,BL-CSCI,COMPUTER SCIENCE,"$70,000.00",1.0000,12
+2013,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$85,363.00",1.0000,10
+2013,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00032540,IN-SCI,SCIENCE,"$97,833.00",1.0000,10
+2013,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$114,000.00",1.0000,10
+2013,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$149,717.00",1.0000,12
+2013,"Feiock, DC",IN,CSCI,Computer Science,AC1,RSS,RSS,,00029599,IN-CSCI,COMPUTER SCIENCE,"$51,000.00",1.0000,12
+2013,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00026522,BL-INFO,INFORMATICS,"$96,228.00",1.0000,10
+2013,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$156,446.00",1.0000,10
+2013,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$57,664.00",1.0000,10
+2013,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$113,798.00",1.0000,10
+2013,"Haghverdi, E",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00020990,BL-INFO,INFORMATICS,"$116,262.00",1.0000,12
+2013,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$67,159.00",1.0000,12
+2013,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$82,170.00",1.0000,10
+2013,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$82,550.00",1.0000,10
+2013,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-INFO,INFORMATICS,"$101,226.00",1.0000,10
+2013,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00023634,BL-INFO,INFORMATICS,"$98,210.00",1.0000,10
+2013,"Kissel, ED",BL,CSCI,Computer Science,PAE,4IT,-,,00037663,BL-CSCI,COMPUTER SCIENCE,"$72,800.00",1.0000,12
+2013,"Lara Dammer, JF",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00038631,BL-CSCI,COMPUTER SCIENCE,"$51,000.00",1.0000,10
+2013,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004992,BL-CSCI,COMPUTER SCIENCE,"$133,340.00",1.0000,10
+2013,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$137,720.00",1.0000,10
+2013,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$99,212.00",1.0000,10
+2013,"Liu, J",IN,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00037296,IN-CSCI,COMPUTER SCIENCE,"$61,503.00",1.0000,12
+2013,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$174,275.00",1.0000,10
+2013,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$81,507.00",1.0000,10
+2013,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$80,118.00",1.0000,10
+2013,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$107,537.00",1.0000,10
+2013,"Mutsuddi, AU",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00035810,BL-INFO,INFORMATICS,"$53,515.00",1.0000,10
+2013,"Myers, SA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026931,BL-INFO,INFORMATICS,"$107,341.00",1.0000,10
+2013,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$94,487.00",1.0000,10
+2013,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$62,769.00",1.0000,10
+2013,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$113,952.00",1.0000,10
+2013,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026759,BL-INFO,INFORMATICS,"$114,036.00",1.0000,10
+2013,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$105,608.00",1.0000,10
+2013,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-INFO,INFORMATICS,"$128,295.00",1.0000,10
+2013,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$75,639.00",1.0000,10
+2013,"Reddington, NA",IN,CSCI,Computer Science,CL,04,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$27,310.00",1.0000,12
+2013,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$57,442.00",1.0000,12
+2013,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAM,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$132,459.00",1.0000,10
+2013,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$95,950.00",1.0000,10
+2013,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$115,000.00",1.0000,10
+2013,"Swany, DM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00008512,BL-CSCI,COMPUTER SCIENCE,"$133,896.00",1.0000,10
+2013,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026767,BL-INFO,INFORMATICS,"$114,453.00",1.0000,10
+2013,"Tidball, BM",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$45,212.00",1.0000,12
+2013,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$92,500.00",1.0000,10
+2013,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$83,150.00",1.0000,10
+2013,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$99,679.00",1.0000,10
+2013,"Van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$124,983.00",1.0000,10
+2013,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027567,BL-INFO,INFORMATICS,"$119,497.00",1.0000,10
+2013,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$59,774.00",1.0000,10
+2013,"Willcock, J",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037434,BL-CSCI,COMPUTER SCIENCE,"$79,985.00",1.0000,12
+2013,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$45,011.00",1.0000,12
+2013,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027130,BL-INFO,INFORMATICS,"$108,561.00",1.0000,10
+2013,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$86,317.00",1.0000,10
+2013,"Yadav, RP",IN,CSCI,Computer Science,AC1,RSP,RSP,,00010315,IN-PHTX,PHARMACOLOGY & TOXICOLOGY,"$30,300.00",1.0000,12
+2013,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00031828,BL-INFO,INFORMATICS,"$106,723.00",1.0000,10
+2013,"Zalewski, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037568,BL-CSCI,COMPUTER SCIENCE,"$77,039.00",1.0000,12
+2013,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$92,500.00",1.0000,10
+2013,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$99,472.00",1.0000,10
+2013,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$89,731.00",1.0000,10
+2014,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$54,944.00",1.0000,12
+2014,"Anderson, MW",BL,CSCI,Computer Science,PAE,4IT,-,,00036894,BL-CSCI,COMPUTER SCIENCE,"$89,121.00",1.0000,12
+2014,"Biggers, KL",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$31,595.00",1.0000,12
+2014,"Bohan, PK",BL,CSCI,Computer Science,PAE,4IT,-,,00038470,BL-CSCI,COMPUTER SCIENCE,"$96,188.00",1.0000,12
+2014,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$117,826.00",1.0000,10
+2014,"Brodowicz, MA",BL,CSCI,Computer Science,PAE,4IT,-,,00037565,BL-CSCI,COMPUTER SCIENCE,"$104,807.00",1.0000,12
+2014,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$140,000.00",1.0000,10
+2014,"Chakraborty, A",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00040096,BL-CSCI,COMPUTER SCIENCE,"$36,300.00",1.0000,10
+2014,"Cimini, M",BL,CSCI,Computer Science,AC1,RSP,RSP,,00039502,BL-CSCI,COMPUTER SCIENCE,"$70,000.00",1.0000,12
+2014,"Cottam, JA",BL,CSCI,Computer Science,AC1,RSP,RSP,,00029741,BL-CSCI,COMPUTER SCIENCE,"$74,501.00",1.0000,12
+2014,"D'Alessandro, LK",BL,CSCI,Computer Science,AC1,RSS,RSS,,00019957,BL-CSCI,COMPUTER SCIENCE,"$73,185.00",1.0000,12
+2014,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$111,631.00",1.0000,10
+2014,"Debuhr, JE",BL,CSCI,Computer Science,AC1,RSP,-,,00038740,BL-CSCI,COMPUTER SCIENCE,"$71,680.00",1.0000,12
+2014,"Diaz, LM",BL,CSCI,Computer Science,PAE,3AD,-,,00039220,BL-CSCI,COMPUTER SCIENCE,"$53,375.00",1.0000,12
+2014,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$93,168.00",1.0000,10
+2014,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$99,733.00",1.0000,10
+2014,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$116,280.00",1.0000,10
+2014,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$152,847.00",1.0000,12
+2014,"Feiock, DC",IN,CSCI,Computer Science,AC1,RSS,RSS,,00029599,IN-CSCI,COMPUTER SCIENCE,"$51,510.00",1.0000,12
+2014,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00026522,BL-CSCI,COMPUTER SCIENCE,"$98,186.00",1.0000,10
+2014,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$159,453.00",1.0000,10
+2014,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$58,769.00",1.0000,10
+2014,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$113,798.00",1.0000,10
+2014,"Haghverdi, E",BL,CSCI,Computer Science,AC1,AAJ,FT2,PC - Associate Professor,00004976,BL-CSCI,COMPUTER SCIENCE,"$128,400.00",1.0000,12
+2014,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$68,509.00",1.0000,12
+2014,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$84,920.00",1.0000,10
+2014,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$84,150.00",1.0000,10
+2014,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-CSCI,COMPUTER SCIENCE,"$102,979.00",1.0000,10
+2014,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$100,481.00",1.0000,10
+2014,"Kissel, ED",BL,CSCI,Computer Science,PAE,4IT,-,,00037663,BL-CSCI,COMPUTER SCIENCE,"$80,080.00",1.0000,12
+2014,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$139,923.00",1.0000,10
+2014,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$103,372.00",1.0000,10
+2014,"Liu, J",IN,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00037296,IN-CSCI,COMPUTER SCIENCE,"$62,618.00",1.0000,12
+2014,"Li, Z",BL,CSCI,Computer Science,AC1,FVX,FV6,,00038834,BL-CSCI,COMPUTER SCIENCE,"$24,480.00",1.0000,12
+2014,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$182,000.00",1.0000,10
+2014,"Martin, BD",BL,CSCI,Computer Science,PAE,3IT,-,,00036552,BL-CSCI,COMPUTER SCIENCE,"$61,500.00",1.0000,12
+2014,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$81,507.00",1.0000,10
+2014,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$81,056.00",1.0000,10
+2014,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$110,877.00",1.0000,10
+2014,"Myers, SA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026931,BL-CSCI,COMPUTER SCIENCE,"$111,500.00",1.0000,10
+2014,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$96,507.00",1.0000,10
+2014,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$66,088.00",1.0000,10
+2014,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$115,843.00",1.0000,10
+2014,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$116,548.00",1.0000,10
+2014,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$108,908.00",1.0000,10
+2014,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$138,000.00",1.0000,10
+2014,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$76,597.00",1.0000,10
+2014,"Reddington, NA",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$30,638.00",1.0000,12
+2014,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$61,642.00",1.0000,12
+2014,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$139,500.00",1.0000,10
+2014,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$151,426.00",1.0000,10
+2014,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$97,869.00",1.0000,10
+2014,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$117,300.00",1.0000,10
+2014,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$80,500.00",1.0000,10
+2014,"Sterling, T",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00017201,BL-CSCI,COMPUTER SCIENCE,"$222,500.00",1.0000,10
+2014,"Svensson, BJ",BL,CSCI,Computer Science,AC1,RSP,RSP,,00001083,BL-CSCI,COMPUTER SCIENCE,"$65,000.00",1.0000,12
+2014,"Swany, DM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00008512,BL-CSCI,COMPUTER SCIENCE,"$136,940.00",1.0000,10
+2014,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$117,276.00",1.0000,10
+2014,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$94,541.00",1.0000,10
+2014,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$90,920.00",1.0000,10
+2014,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$101,579.00",1.0000,10
+2014,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$131,232.00",1.0000,10
+2014,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$122,072.00",1.0000,10
+2014,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$60,745.00",1.0000,10
+2014,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$45,906.00",1.0000,12
+2014,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$112,500.00",1.0000,10
+2014,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$87,867.00",1.0000,10
+2014,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$110,500.00",1.0000,10
+2014,"Zalewski, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037568,BL-CSCI,COMPUTER SCIENCE,"$78,734.00",1.0000,12
+2014,"Zhang, B",BL,CSCI,Computer Science,AC1,RSP,RSP,,00038965,BL-CSCI,COMPUTER SCIENCE,"$71,680.00",1.0000,12
+2014,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$94,541.00",1.0000,10
+2014,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$101,372.00",1.0000,10
+2014,"Zinkov, R",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$66,300.00",1.0000,12
+2014,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$91,381.00",1.0000,10
+2015,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$56,044.00",1.0000,12
+2015,"Ajay Candadai, J",BL,CSCI,Computer Science,PAE,4IT,-,,00040205,BL-CSCI,COMPUTER SCIENCE,"$81,404.00",1.0000,12
+2015,"Anderson, MW",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00040844,BL-CSCI,COMPUTER SCIENCE,"$99,815.00",1.0000,12
+2015,"Bao, G",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041294,BL-CSCI,COMPUTER SCIENCE,"$42,420.00",1.0000,12
+2015,"Barnas, MM",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037434,BL-CSCI,COMPUTER SCIENCE,"$89,600.00",1.0000,12
+2015,"Bohan, PK",BL,CSCI,Computer Science,PAE,4IT,-,,00038470,BL-CSCI,COMPUTER SCIENCE,"$96,668.00",1.0000,12
+2015,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$119,346.00",1.0000,10
+2015,"Brodowicz, MA",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00040845,BL-CSCI,COMPUTER SCIENCE,"$111,814.00",1.0000,12
+2015,"Brown, BG",BL,CSCI,Computer Science,PAE,3AD,-,,00014398,BL-INFO,INFORMATICS,"$68,000.00",1.0000,12
+2015,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$145,342.00",1.0000,10
+2015,"Chen, K",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041254,BL-CSCI,COMPUTER SCIENCE,"$40,392.00",1.0000,12
+2015,"Cleary, KL",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$32,157.00",1.0000,12
+2015,"Cottam, JA",BL,CSCI,Computer Science,AC1,RSP,RSP,,00029741,BL-CSCI,COMPUTER SCIENCE,"$75,991.00",1.0000,12
+2015,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,00009190,BL-CSCI,COMPUTER SCIENCE,"$39,312.00",1.0000,12
+2015,"Curvin, CJ",BL,CSCI,Computer Science,PAE,3AD,-,,00030844,BL-INFO,INFORMATICS,"$68,366.00",1.0000,12
+2015,"D'Alessandro, LK",BL,CSCI,Computer Science,AC1,RSS,RSS,,00019957,BL-CSCI,COMPUTER SCIENCE,"$75,088.00",1.0000,12
+2015,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$114,053.00",1.0000,10
+2015,"Debuhr, JE",BL,CSCI,Computer Science,AC1,RSP,-,,00038740,BL-CSCI,COMPUTER SCIENCE,"$73,257.00",1.0000,12
+2015,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$97,183.00",1.0000,10
+2015,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$101,733.00",1.0000,10
+2015,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$126,928.00",1.0000,10
+2015,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$185,000.00",1.0000,12
+2015,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00026522,BL-CSCI,COMPUTER SCIENCE,"$101,317.00",1.0000,10
+2015,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$162,690.00",1.0000,10
+2015,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$68,000.00",1.0000,10
+2015,"Gupta, M",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$113,798.00",1.0000,10
+2015,"Haghverdi, E",BL,CSCI,Computer Science,AC1,AAJ,FT2,PC - Associate Professor,00004976,BL-CSCI,COMPUTER SCIENCE,"$139,282.00",1.0000,12
+2015,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$69,809.00",1.0000,12
+2015,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$88,755.00",1.0000,10
+2015,"Henry, R",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00013807,BL-CSCI,COMPUTER SCIENCE,"$97,500.00",1.0000,10
+2015,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$94,485.00",1.0000,10
+2015,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-CSCI,COMPUTER SCIENCE,"$104,853.00",1.0000,10
+2015,"Himebaugh, BD",BL,CSCI,Computer Science,PAE,3IT,-,,00014582,BL-CSCI,COMPUTER SCIENCE,"$77,910.00",1.0000,12
+2015,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$98,391.00",1.0000,10
+2015,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$112,637.00",1.0000,10
+2015,"Kissel, ED",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00042182,BL-CSCI,COMPUTER SCIENCE,"$80,080.00",1.0000,12
+2015,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$142,288.00",1.0000,10
+2015,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$105,622.00",1.0000,10
+2015,"Li, S",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00038763,BL-CSCI,COMPUTER SCIENCE,"$55,000.00",1.0000,12
+2015,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$188,550.00",1.0000,10
+2015,"Malbasa, V",BL,CSCI,Computer Science,AC1,FVX,FV1,PR - Professor,00040096,BL-CSCI,COMPUTER SCIENCE,"$95,000.00",1.0000,10
+2015,"Martin, BD",BL,CSCI,Computer Science,PAE,3IT,-,,00036552,BL-CSCI,COMPUTER SCIENCE,"$62,576.00",1.0000,12
+2015,"Martindale, TJ",BL,CSCI,Computer Science,SS,0G,-,,00011520,BL-INFO,INFORMATICS,"$44,782.00",1.0000,12
+2015,"Mason, JB",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$30,805.00",1.0000,12
+2015,"McDonell, T",BL,CSCI,Computer Science,AC1,RSS,RSS,,00041655,BL-CSCI,COMPUTER SCIENCE,"$66,300.00",1.0000,12
+2015,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$86,397.00",1.0000,10
+2015,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$34,882.00",1.0000,12
+2015,"Mills, JW",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$82,053.00",1.0000,10
+2015,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$113,237.00",1.0000,10
+2015,"Myers, SA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026931,BL-CSCI,COMPUTER SCIENCE,"$118,053.00",1.0000,10
+2015,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$101,149.00",1.0000,10
+2015,"Ning, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$82,620.00",1.0000,10
+2015,"Olmes-Stevens, JC",BL,CSCI,Computer Science,PAE,3AD,-,,00035012,BL-INFO,INFORMATICS,"$53,317.00",1.0000,12
+2015,"Phillips, SJ",BL,CSCI,Computer Science,PAO,2AD,-,,00016537,BL-CSCI,COMPUTER SCIENCE,"$49,629.00",1.0000,12
+2015,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,AAM,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$71,000.00",1.0000,10
+2015,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$117,882.00",1.0000,10
+2015,"Qian, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038714,BL-CSCI,COMPUTER SCIENCE,"$97,500.00",1.0000,10
+2015,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$127,404.00",1.0000,10
+2015,"Rajan, B",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00039900,BL-CSCI,COMPUTER SCIENCE,"$61,000.00",1.0000,10
+2015,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$111,218.00",1.0000,10
+2015,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$140,746.00",1.0000,10
+2015,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$77,554.00",1.0000,10
+2015,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$38,438.00",1.0000,12
+2015,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$64,487.00",1.0000,12
+2015,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$146,988.00",1.0000,10
+2015,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$158,242.00",1.0000,10
+2015,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$99,709.00",1.0000,10
+2015,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$123,193.00",1.0000,10
+2015,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$82,110.00",1.0000,10
+2015,"Sterling, T",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00017201,BL-CSCI,COMPUTER SCIENCE,"$229,506.00",1.0000,10
+2015,"Stern, J",BL,CSCI,Computer Science,SS,0F,-,,00036154,BL-INFO,INFORMATICS,"$34,175.00",1.0000,12
+2015,"Svensson, BJ",BL,CSCI,Computer Science,AC1,RSP,RSP,,00001083,BL-CSCI,COMPUTER SCIENCE,"$66,300.00",1.0000,12
+2015,"Swany, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008512,BL-CSCI,COMPUTER SCIENCE,"$149,229.00",1.0000,10
+2015,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$128,547.00",1.0000,10
+2015,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$99,575.00",1.0000,10
+2015,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$95,885.00",1.0000,10
+2015,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$103,609.00",1.0000,10
+2015,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$137,868.00",1.0000,10
+2015,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$133,294.00",1.0000,10
+2015,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$62,700.00",1.0000,10
+2015,"White, AM",BL,CSCI,Computer Science,AC1,FVX,FV6,,00040807,BL-CSCI,COMPUTER SCIENCE,"$30,600.00",1.0000,12
+2015,"White, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$97,500.00",1.0000,10
+2015,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$68,000.00",1.0000,10
+2015,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$47,237.00",1.0000,12
+2015,"Wu, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$112,500.00",1.0000,10
+2015,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$89,045.00",1.0000,10
+2015,"Xie, Z",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041255,BL-CSCI,COMPUTER SCIENCE,"$35,700.00",1.0000,12
+2015,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$112,743.00",1.0000,10
+2015,"Zalewski, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037568,BL-CSCI,COMPUTER SCIENCE,"$79,718.00",1.0000,12
+2015,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$99,575.00",1.0000,10
+2015,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$103,372.00",1.0000,10
+2015,"Zinkov, R",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$67,626.00",1.0000,12
+2015,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$92,781.00",1.0000,10
+2016,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$57,174.00",1.0000,12
+2016,"Ajay Candadai, J",BL,CSCI,Computer Science,PAE,4IT,-,,00040205,BL-CSCI,COMPUTER SCIENCE,"$85,474.00",1.0000,12
+2016,"Anderson, MW",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00040844,BL-CSCI,COMPUTER SCIENCE,"$101,811.00",1.0000,12
+2016,"Bao, G",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041294,BL-CSCI,COMPUTER SCIENCE,"$43,268.00",1.0000,12
+2016,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$120,784.00",1.0000,10
+2016,"Brodowicz, MA",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00040845,BL-CSCI,COMPUTER SCIENCE,"$114,050.00",1.0000,12
+2016,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$148,766.00",1.0000,10
+2016,"Bullock, TR",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$44,880.00",1.0000,12
+2016,"Chen, L",BL,CSCI,Computer Science,AC1,RSP,RSP,,00001083,BL-CSCI,COMPUTER SCIENCE,"$50,000.00",1.0000,12
+2016,"Christiansen, DR",BL,CSCI,Computer Science,AC1,RSP,RSP,,00037421,BL-CSCI,COMPUTER SCIENCE,"$66,300.00",1.0000,12
+2016,"Cimini, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037434,BL-CSCI,COMPUTER SCIENCE,"$72,828.00",1.0000,12
+2016,"Cleary, KL",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$32,760.00",1.0000,12
+2016,"Cottam, JA",BL,CSCI,Computer Science,AC1,RSS,RSS,,00043345,BL-CSCI,COMPUTER SCIENCE,"$77,511.00",1.0000,12
+2016,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,00009190,BL-CSCI,COMPUTER SCIENCE,"$40,102.00",1.0000,12
+2016,"D'Alessandro, LK",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00043624,BL-CSCI,COMPUTER SCIENCE,"$87,000.00",1.0000,12
+2016,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$116,279.00",1.0000,10
+2016,"Davenport, SL",BL,CSCI,Computer Science,SS,0F,-,,00039936,BL-CSCI,COMPUTER SCIENCE,"$35,194.00",1.0000,12
+2016,"Debuhr, JE",BL,CSCI,Computer Science,AC1,RSS,RSS,,00041656,BL-CSCI,COMPUTER SCIENCE,"$74,723.00",1.0000,12
+2016,"Denney, SL",BL,CSCI,Computer Science,SS,0F,-,,00042753,BL-CSCI,COMPUTER SCIENCE,"$37,211.00",1.0000,12
+2016,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$99,083.00",1.0000,10
+2016,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$106,833.00",1.0000,10
+2016,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$129,681.00",1.0000,10
+2016,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$188,700.00",1.0000,12
+2016,"Fox, J",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00026522,BL-CSCI,COMPUTER SCIENCE,"$110,837.00",1.0000,10
+2016,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$165,806.00",1.0000,10
+2016,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$69,876.00",1.0000,10
+2016,"Gu, Y",BL,CSCI,Computer Science,AC1,FVX,FV8,,00041254,BL-CSCI,COMPUTER SCIENCE,"$30,600.00",0.5000,12
+2016,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$71,109.00",1.0000,12
+2016,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$96,455.00",1.0000,10
+2016,"Helton, RL",BL,CSCI,Computer Science,PAE,3SA,-,,00035615,BL-CSCI,COMPUTER SCIENCE,"$40,998.00",1.0000,12
+2016,"Henry, R",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00013807,BL-CSCI,COMPUTER SCIENCE,"$100,203.00",1.0000,10
+2016,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$98,480.00",1.0000,10
+2016,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-CSCI,COMPUTER SCIENCE,"$113,500.00",1.0000,10
+2016,"Himebaugh, BD",BL,CSCI,Computer Science,PAE,3IT,FA5,,00014582,BL-CSCI,COMPUTER SCIENCE,"$77,910.00",1.0000,12
+2016,"Hmeljak, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$63,501.00",1.0000,10
+2016,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$101,110.00",1.0000,10
+2016,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$115,487.00",1.0000,10
+2016,"Keith, RE",BL,CSCI,Computer Science,SS,0F,-,,00018966,BL-CSCI,COMPUTER SCIENCE,"$37,378.00",1.0000,12
+2016,"Kissel, ED",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00042182,BL-CSCI,COMPUTER SCIENCE,"$94,095.00",1.0000,12
+2016,"Lattimore, T",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$100,000.00",1.0000,10
+2016,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$142,637.00",1.0000,10
+2016,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$109,322.00",1.0000,10
+2016,"Li, S",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00038763,BL-CSCI,COMPUTER SCIENCE,"$56,100.00",1.0000,12
+2016,"Li, T",BL,CSCI,Computer Science,AC1,FVX,FV6,,00038631,BL-CSCI,COMPUTER SCIENCE,"$25,704.00",1.0000,12
+2016,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$193,736.00",1.0000,10
+2016,"Malbasa, V",BL,CSCI,Computer Science,AC1,FVX,FV1,PR - Professor,00040096,BL-CSCI,COMPUTER SCIENCE,"$96,900.00",1.0000,10
+2016,"Mason, JB",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$31,470.00",1.0000,12
+2016,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$89,281.00",1.0000,10
+2016,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$35,589.00",1.0000,12
+2016,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$116,587.00",1.0000,10
+2016,"Myers, SA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026931,BL-CSCI,COMPUTER SCIENCE,"$121,185.00",1.0000,10
+2016,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$104,074.00",1.0000,10
+2016,"Ning, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$84,220.00",1.0000,10
+2016,"Novak, L",BL,CSCI,Computer Science,AC1,FVX,FV1,PR - Professor,00039901,BL-CSCI,COMPUTER SCIENCE,"$95,000.00",1.0000,10
+2016,"Payli, B",IN,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00043164,IN-CSCI,COMPUTER SCIENCE,"$45,000.00",1.0000,10
+2016,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$73,187.00",1.0000,10
+2016,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$119,416.00",1.0000,10
+2016,"Qian, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038714,BL-CSCI,COMPUTER SCIENCE,"$101,908.00",1.0000,10
+2016,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$131,066.00",1.0000,10
+2016,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$114,518.00",1.0000,10
+2016,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$144,213.00",1.0000,10
+2016,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$78,330.00",1.0000,10
+2016,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$39,208.00",1.0000,12
+2016,"Reyes-Cooksey, P",BL,CSCI,Computer Science,PAE,4SA,-,,00030845,BL-INFO,INFORMATICS,"$72,522.00",1.0000,12
+2016,"Roberts, MS",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$67,337.00",1.0000,12
+2016,"Rybarczyk, RT",IN,CSCI,Computer Science,AC1,FVX,FV6,,00043163,IN-CSCI,COMPUTER SCIENCE,"$50,000.00",1.0000,10
+2016,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$151,030.00",1.0000,10
+2016,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$161,330.00",1.0000,10
+2016,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$102,343.00",1.0000,10
+2016,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$126,216.00",1.0000,10
+2016,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$86,810.00",1.0000,10
+2016,"Stern, J",BL,CSCI,Computer Science,SS,0F,-,,00036154,BL-INFO,INFORMATICS,"$34,860.00",1.0000,12
+2016,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$132,206.00",1.0000,10
+2016,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$103,710.00",1.0000,10
+2016,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$97,805.00",1.0000,10
+2016,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$105,589.00",1.0000,10
+2016,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$141,607.00",1.0000,10
+2016,"Wang, W",BL,CSCI,Computer Science,AC1,FVX,FV6,,00038834,BL-CSCI,COMPUTER SCIENCE,"$30,000.00",1.0000,12
+2016,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$136,361.00",1.0000,10
+2016,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$64,552.00",1.0000,10
+2016,"White, AM",BL,CSCI,Computer Science,AC1,FVX,FV6,TL - Lecturer,00040807,BL-CSCI,COMPUTER SCIENCE,"$31,212.00",1.0000,12
+2016,"White, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$101,908.00",1.0000,10
+2016,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$69,631.00",1.0000,10
+2016,"Wiggins, TB",BL,CSCI,Computer Science,PAE,2IT,-,,00040030,BL-CSCI,COMPUTER SCIENCE,"$45,900.00",1.0000,12
+2016,"Williamson, DS",BL,CSCI,Computer Science,AC1,FTX,FG3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$100,000.00",1.0000,10
+2016,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$49,109.00",1.0000,12
+2016,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$90,745.00",1.0000,10
+2016,"Xie, Z",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041255,BL-CSCI,COMPUTER SCIENCE,"$36,414.00",1.0000,12
+2016,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$115,606.00",1.0000,10
+2016,"Zalewski, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037568,BL-CSCI,COMPUTER SCIENCE,"$80,516.00",1.0000,12
+2016,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$102,960.00",1.0000,10
+2016,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$105,472.00",1.0000,10
+2016,"Zhou, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$98,000.00",1.0000,10
+2016,"Zinkov, R",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$68,979.00",1.0000,12
+2016,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$94,631.00",1.0000,10
+2017,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$58,224.00",1.0000,12
+2017,"Anderson, MW",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00040844,BL-CSCI,COMPUTER SCIENCE,"$103,848.00",1.0000,12
+2017,"Bao, G",BL,CSCI,Computer Science,AC1,FVX,FV6,,00041294,BL-CSCI,COMPUTER SCIENCE,"$47,476.00",1.0000,12
+2017,"Bhutta, AA",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00044042,BL-CSCI,COMPUTER SCIENCE,"$68,891.00",1.0000,10
+2017,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$122,149.00",1.0000,10
+2017,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$151,310.00",1.0000,10
+2017,"Bullock, TR",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$45,682.00",1.0000,12
+2017,"Christiansen, DR",BL,CSCI,Computer Science,AC1,RSP,RSP,,00037421,BL-CSCI,COMPUTER SCIENCE,"$67,626.00",1.0000,12
+2017,"Cimini, M",BL,CSCI,Computer Science,AC1,RSS,RSS,,00037434,BL-CSCI,COMPUTER SCIENCE,"$72,828.00",1.0000,12
+2017,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,00009190,BL-CSCI,COMPUTER SCIENCE,"$40,914.00",1.0000,12
+2017,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$117,872.00",1.0000,10
+2017,"Davenport, SL",BL,CSCI,Computer Science,SS,0F,-,,00039936,BL-CSCI,COMPUTER SCIENCE,"$35,901.00",1.0000,12
+2017,"Denney, SL",BL,CSCI,Computer Science,SS,0F,-,,00042753,BL-CSCI,COMPUTER SCIENCE,"$37,960.00",1.0000,12
+2017,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$100,733.00",1.0000,10
+2017,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$109,033.00",1.0000,10
+2017,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$132,504.00",1.0000,10
+2017,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$192,097.00",1.0000,12
+2017,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$168,641.00",1.0000,10
+2017,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$72,468.00",1.0000,10
+2017,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$72,309.00",1.0000,12
+2017,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$98,155.00",1.0000,10
+2017,"Helton, RL",BL,CSCI,Computer Science,PAE,3SA,-,,00035615,BL-CSCI,COMPUTER SCIENCE,"$46,000.00",1.0000,12
+2017,"Henry, R",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00013807,BL-CSCI,COMPUTER SCIENCE,"$101,769.00",1.0000,10
+2017,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$100,480.00",1.0000,10
+2017,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-CSCI,COMPUTER SCIENCE,"$115,055.00",1.0000,10
+2017,"Himebaugh, BD",BL,CSCI,Computer Science,AC1,FCX,FC3,PT - Assistant Professor,00043908,BL-CSCI,COMPUTER SCIENCE,"$86,386.00",1.0000,10
+2017,"Hmeljak, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$66,149.00",1.0000,10
+2017,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$102,669.00",1.0000,10
+2017,"Jiang, X",BL,CSCI,Computer Science,AC1,RSP,RSP,,00026002,BL-BI,BIOLOGY,"$48,425.00",1.0000,12
+2017,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$117,797.00",1.0000,10
+2017,"Keith, RE",BL,CSCI,Computer Science,SS,0F,-,,00018966,BL-CSCI,COMPUTER SCIENCE,"$38,126.00",1.0000,12
+2017,"Kissel, ED",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00042182,BL-CSCI,COMPUTER SCIENCE,"$95,977.00",1.0000,12
+2017,"Kouper, I",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00044226,BL-INFI,DEPARTMENT OF INFORMATICS,"$76,124.00",1.0000,12
+2017,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$144,834.00",1.0000,10
+2017,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$111,339.00",1.0000,10
+2017,"Lukefahr, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00045152,BL-CSCI,COMPUTER SCIENCE,"$100,000.00",1.0000,10
+2017,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$193,736.00",1.0000,10
+2017,"Malbasa, V",BL,CSCI,Computer Science,AC1,FVX,FV1,PR - Professor,00040096,BL-CSCI,COMPUTER SCIENCE,"$98,596.00",1.0000,10
+2017,"Mason, JB",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$32,032.00",1.0000,12
+2017,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$92,852.00",1.0000,10
+2017,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$36,296.00",1.0000,12
+2017,"Mohler, GO",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00043851,IN-CSCI,COMPUTER SCIENCE,"$96,650.00",1.0000,10
+2017,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$119,937.00",1.0000,10
+2017,"Myers, SA",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00026931,BL-CSCI,COMPUTER SCIENCE,"$125,257.00",1.0000,10
+2017,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$127,964.00",1.0000,10
+2017,"Ning, X",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$87,970.00",1.0000,10
+2017,"Payli, B",IN,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00043164,IN-CSCI,COMPUTER SCIENCE,"$45,500.00",1.0000,12
+2017,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$75,990.00",1.0000,10
+2017,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$120,610.00",1.0000,10
+2017,"Qian, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038714,BL-CSCI,COMPUTER SCIENCE,"$103,946.00",1.0000,10
+2017,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$138,578.00",1.0000,10
+2017,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$116,768.00",1.0000,10
+2017,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$146,852.00",1.0000,10
+2017,"Ratharanjan, K",BL,CSCI,Computer Science,PAE,3IT,-,,00036425,BL-INFO,INFORMATICS,"$55,420.00",1.0000,12
+2017,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$79,278.00",1.0000,10
+2017,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$39,998.00",1.0000,12
+2017,"Reyes-Cooksey, P",BL,CSCI,Computer Science,PAE,4SA,-,,00030845,BL-INFO,INFORMATICS,"$73,972.00",1.0000,12
+2017,"Rybarczyk, RT",IN,CSCI,Computer Science,AC1,FVX,FV3,PT - Assistant Professor,00043163,IN-CSCI,COMPUTER SCIENCE,"$66,100.00",1.0000,10
+2017,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$154,051.00",1.0000,10
+2017,"Sadik, O",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00039902,BL-CSCI,COMPUTER SCIENCE,"$59,999.00",1.0000,10
+2017,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$166,019.00",1.0000,10
+2017,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$103,836.00",1.0000,10
+2017,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$128,526.00",1.0000,10
+2017,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$88,260.00",1.0000,10
+2017,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$138,740.00",1.0000,10
+2017,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$105,611.00",1.0000,10
+2017,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$99,505.00",1.0000,10
+2017,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$107,439.00",1.0000,10
+2017,"Vanatsky, LL",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$34,611.00",1.0000,12
+2017,"van Busum, KM",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$56,000.00",1.0000,12
+2017,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$144,708.00",1.0000,10
+2017,"Wang, W",BL,CSCI,Computer Science,PAE,RNC,FV6,,00044396,BL-CSCI,COMPUTER SCIENCE,"$30,014.00",1.0000,12
+2017,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$155,000.00",1.0000,10
+2017,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$67,528.00",1.0000,10
+2017,"White, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$101,908.00",1.0000,10
+2017,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$72,214.00",1.0000,10
+2017,"Williamson, DS",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$101,625.00",1.0000,10
+2017,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$50,794.00",1.0000,12
+2017,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$92,145.00",1.0000,10
+2017,"Xie, Z",BL,CSCI,Computer Science,PAE,RNC,FV6,,00044489,BL-CSCI,COMPUTER SCIENCE,"$36,421.00",1.0000,12
+2017,"Yaroslavtsev, G",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039135,BL-CSCI,COMPUTER SCIENCE,"$101,625.00",1.0000,10
+2017,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$120,225.00",1.0000,10
+2017,"You, W",BL,CSCI,Computer Science,PAE,RNC,FV6,,00044397,BL-CSCI,COMPUTER SCIENCE,"$30,014.00",1.0000,12
+2017,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$105,348.00",1.0000,10
+2017,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$107,322.00",1.0000,10
+2017,"Zhou, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$101,593.00",1.0000,10
+2017,"Zinkov, R",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$68,979.00",1.0000,12
+2017,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$96,281.00",1.0000,10
+2018,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$64,424.00",1.0000,12
+2018,"Bayatbabolghani, F",BL,CSCI,Computer Science,AC1,RSP,RSP,TL - Lecturer,00029741,BL-CSCI,COMPUTER SCIENCE,"$59,085.00",1.0000,12
+2018,"Bhutta, AA",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00044042,BL-CSCI,COMPUTER SCIENCE,"$76,772.00",1.0000,10
+2018,"Blanco Rodriguez, SA",BL,CSCI,Computer Science,AC1,FVX,FV3,PT - Assistant Professor,00026470,BL-CSCI,COMPUTER SCIENCE,"$76,000.00",1.0000,10
+2018,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$122,685.00",1.0000,10
+2018,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$152,735.00",1.0000,10
+2018,"Bullock, TR",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$46,682.00",1.0000,12
+2018,"Crandall, D",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$134,112.00",1.0000,10
+2018,"Curtis, BS",BL,CSCI,Computer Science,SS,0F,-,,00009190,BL-CSCI,COMPUTER SCIENCE,"$41,725.00",1.0000,12
+2018,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$119,494.00",1.0000,10
+2018,"Davenport, SL",BL,CSCI,Computer Science,SS,0F,-,,00039936,BL-CSCI,COMPUTER SCIENCE,"$36,629.00",1.0000,12
+2018,"Denney, SL",BL,CSCI,Computer Science,SS,0F,-,,00042753,BL-CSCI,COMPUTER SCIENCE,"$38,730.00",1.0000,12
+2018,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$102,333.00",1.0000,10
+2018,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$111,483.00",1.0000,10
+2018,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$133,829.00",1.0000,10
+2018,"Essex, TE",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$35,006.00",1.0000,12
+2018,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$195,939.00",1.0000,12
+2018,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$169,687.00",1.0000,10
+2018,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$76,192.00",1.0000,10
+2018,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$73,809.00",1.0000,12
+2018,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$99,855.00",1.0000,10
+2018,"Helton, RL",BL,CSCI,Computer Science,PAE,3SA,-,,00035615,BL-CSCI,COMPUTER SCIENCE,"$46,575.00",1.0000,12
+2018,"Henry, R",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00013807,BL-CSCI,COMPUTER SCIENCE,"$102,974.00",1.0000,10
+2018,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$102,980.00",1.0000,10
+2018,"Hill, RL",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00028977,BL-CSCI,COMPUTER SCIENCE,"$116,211.00",1.0000,10
+2018,"Hmeljak, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$68,831.00",1.0000,10
+2018,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$104,111.00",1.0000,10
+2018,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$130,412.00",1.0000,10
+2018,"Keith, RE",BL,CSCI,Computer Science,SS,0F,-,,00018966,BL-CSCI,COMPUTER SCIENCE,"$38,896.00",1.0000,12
+2018,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$145,972.00",1.0000,10
+2018,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$113,439.00",1.0000,10
+2018,"Lukefahr, A",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00045152,BL-CSCI,COMPUTER SCIENCE,"$101,551.00",1.0000,10
+2018,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$193,736.00",1.0000,10
+2018,"Mason, JB",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$32,677.00",1.0000,12
+2018,"Menzel, S",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$95,936.00",1.0000,10
+2018,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$29,619.00",0.8000,12
+2018,"Mohler, GO",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00043851,IN-CSCI,COMPUTER SCIENCE,"$99,650.00",1.0000,10
+2018,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$122,437.00",1.0000,10
+2018,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$129,479.00",1.0000,10
+2018,"Payli, B",IN,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00043164,IN-CSCI,COMPUTER SCIENCE,"$45,500.00",1.0000,12
+2018,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$79,757.00",1.0000,10
+2018,"Purdom Jr., PW",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$120,610.00",1.0000,10
+2018,"Qian, F",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038714,BL-CSCI,COMPUTER SCIENCE,"$107,438.00",1.0000,10
+2018,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$140,218.00",1.0000,10
+2018,"Raje, RR",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006185,IN-CSCI,COMPUTER SCIENCE,"$119,268.00",1.0000,10
+2018,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$148,277.00",1.0000,10
+2018,"Ratharanjan, K",BL,CSCI,Computer Science,PAE,3IT,-,,00036425,BL-INFO,INFORMATICS,"$55,420.00",1.0000,12
+2018,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$80,907.00",1.0000,10
+2018,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$40,789.00",1.0000,12
+2018,"Reyes-Cooksey, P",BL,CSCI,Computer Science,PAE,4SA,-,,00030845,BL-INFO,INFORMATICS,"$75,237.00",1.0000,12
+2018,"Ryoo, MS",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008512,BL-CSCI,COMPUTER SCIENCE,"$104,504.00",1.0000,10
+2018,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$156,361.00",1.0000,10
+2018,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$168,080.00",1.0000,10
+2018,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$105,065.00",1.0000,10
+2018,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$130,172.00",1.0000,10
+2018,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$89,660.00",1.0000,10
+2018,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$141,732.00",1.0000,10
+2018,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$108,624.00",1.0000,10
+2018,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$101,055.00",1.0000,10
+2018,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$109,339.00",1.0000,10
+2018,"van Busum, KM",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$57,000.00",1.0000,12
+2018,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$146,374.00",1.0000,10
+2018,"Wang, W",BL,CSCI,Computer Science,AC1,FVX,FV8,,00045895,BL-CSCI,COMPUTER SCIENCE,"$30,014.00",0.7500,12
+2018,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,NDW,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$170,000.00",1.0000,10
+2018,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$70,444.00",1.0000,10
+2018,"White, M",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$101,908.00",1.0000,10
+2018,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$74,322.00",1.0000,10
+2018,"Williamson, DS",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$103,223.00",1.0000,10
+2018,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$51,730.00",1.0000,12
+2018,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$93,445.00",1.0000,10
+2018,"Yaroslavtsev, G",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039135,BL-CSCI,COMPUTER SCIENCE,"$102,527.00",1.0000,10
+2018,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$131,969.00",1.0000,10
+2018,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$111,542.00",1.0000,10
+2018,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$108,893.00",1.0000,10
+2018,"Zhou, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00004991,BL-CSCI,COMPUTER SCIENCE,"$103,130.00",1.0000,10
+2018,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$97,681.00",1.0000,10
+2019,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$67,424.00",1.0000,12
+2019,"Ahmed, T",BL,CSCI,Computer Science,AC1,RSP,-,,00042212,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$55,550.00",1.0000,12
+2019,"Bhutta, AA",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00044042,BL-CSCI,COMPUTER SCIENCE,"$78,908.00",1.0000,10
+2019,"Blanco Rodriguez, SA",BL,CSCI,Computer Science,AC1,FVX,FV3,PT - Assistant Professor,00026470,BL-CSCI,COMPUTER SCIENCE,"$76,844.00",1.0000,10
+2019,"Bramley, RB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004987,BL-CSCI,COMPUTER SCIENCE,"$122,830.00",1.0000,10
+2019,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$154,128.00",1.0000,10
+2019,"Bullock, TR",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$47,616.00",1.0000,12
+2019,"Crandall, D",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$135,945.00",1.0000,10
+2019,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$123,028.00",1.0000,10
+2019,"Davenport, SL",BL,CSCI,Computer Science,SS,0F,-,,00039936,BL-CSCI,COMPUTER SCIENCE,"$37,357.00",1.0000,12
+2019,"Denney, SL",BL,CSCI,Computer Science,SS,0F,-,,00042753,BL-CSCI,COMPUTER SCIENCE,"$39,499.00",1.0000,12
+2019,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$103,356.00",1.0000,10
+2019,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$112,598.00",1.0000,10
+2019,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$135,141.00",1.0000,10
+2019,"Fang, S",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00000318,IN-CSCI,COMPUTER SCIENCE,"$239,045.00",1.0000,12
+2019,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$170,716.00",1.0000,10
+2019,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$78,037.00",1.0000,10
+2019,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$74,547.00",1.0000,12
+2019,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$100,854.00",1.0000,10
+2019,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$104,010.00",1.0000,10
+2019,"Hmeljak, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$70,324.00",1.0000,10
+2019,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$104,935.00",1.0000,10
+2019,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$132,071.00",1.0000,10
+2019,"Lee, RE",BL,CSCI,Computer Science,SS,0F,-,,00018966,BL-CSCI,COMPUTER SCIENCE,"$39,666.00",1.0000,12
+2019,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$146,765.00",1.0000,10
+2019,"Leonard, SJ",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$35,360.00",1.0000,12
+2019,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$118,439.00",1.0000,10
+2019,"Liao, X",BL,CSCI,Computer Science,AC1,FTX,-,PT - Assistant Professor,00022922,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$100,803.00",1.0000,10
+2019,"Liu, W",BL,CSCI,Computer Science,AC1,FVX,FV8,,00038631,BL-CSCI,COMPUTER SCIENCE,"$37,000.00",1.0000,12
+2019,"Malbasa, V",BL,CSCI,Computer Science,AC1,FCX,FC1,PR - Professor,00043908,BL-CSCI,COMPUTER SCIENCE,"$111,163.00",1.0000,10
+2019,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$30,218.00",0.8000,12
+2019,"Mohler, GO",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00043851,IN-CSCI,COMPUTER SCIENCE,"$110,150.00",1.0000,10
+2019,"Molina, R",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$33,010.00",1.0000,12
+2019,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$123,661.00",1.0000,10
+2019,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$130,698.00",1.0000,10
+2019,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$81,651.00",1.0000,10
+2019,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$149,673.00",1.0000,10
+2019,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$81,829.00",1.0000,10
+2019,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$41,600.00",1.0000,12
+2019,"Reyes-Cooksey, P",BL,CSCI,Computer Science,PAE,4SA,-,,00030845,BL-INFO,INFORMATICS,"$76,087.00",1.0000,12
+2019,"Rodman Jennings, KA",BL,CSCI,Computer Science,SS,0G,-,,00047121,BL-CSCI,COMPUTER SCIENCE,"$43,867.00",1.0000,12
+2019,"Rose, RE",BL,CSCI,Computer Science,AC1,FVX,FV5,TL - Lecturer,00039900,BL-CSCI,COMPUTER SCIENCE,"$75,001.00",1.0000,10
+2019,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$157,925.00",1.0000,10
+2019,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$170,222.00",1.0000,10
+2019,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$113,471.00",1.0000,10
+2019,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$141,656.00",1.0000,10
+2019,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$98,005.00",1.0000,10
+2019,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$143,675.00",1.0000,10
+2019,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$120,007.00",1.0000,10
+2019,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$102,066.00",1.0000,10
+2019,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,HAL,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$110,432.00",1.0000,10
+2019,"van Busum, KM",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$57,570.00",1.0000,12
+2019,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$148,144.00",1.0000,10
+2019,"Wang, B",BL,CSCI,Computer Science,PAE,4IT,-,,00046264,BL-CSCI,COMPUTER SCIENCE,"$92,440.00",1.0000,12
+2019,"Wang, F",BL,CSCI,Computer Science,PAE,4IT,-,,00034843,BL-ISRS,INTELLIGENT SYSTEMS ENGINEERIN,"$105,087.00",1.0000,12
+2019,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,NDW,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$172,089.00",1.0000,10
+2019,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$72,522.00",1.0000,10
+2019,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$75,779.00",1.0000,10
+2019,"Williamson, DS",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$104,542.00",1.0000,10
+2019,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$52,250.00",1.0000,12
+2019,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$94,379.00",1.0000,10
+2019,"Xing, L",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$100,579.00",1.0000,10
+2019,"Yaroslavtsev, G",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039135,BL-CSCI,COMPUTER SCIENCE,"$103,314.00",1.0000,10
+2019,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$133,689.00",1.0000,10
+2019,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$142,000.00",1.0000,10
+2019,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$109,982.00",1.0000,10
+2019,"Zhou, SS",BL,CSCI,Computer Science,AC1,RSP,-,,00041365,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$48,720.00",1.0000,12
+2019,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$98,658.00",1.0000,10
+2020,"Acheson, LL",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00011697,IN-CSCI,COMPUTER SCIENCE,"$68,068.00",1.0000,12
+2020,"Bhutta, AA",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00044042,BL-CSCI,COMPUTER SCIENCE,"$78,908.00",1.0000,10
+2020,"Brown, GM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$154,128.00",1.0000,10
+2020,"Bullock, TR",IN,CSCI,Computer Science,PAE,3SA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$47,616.00",1.0000,12
+2020,"Burcham, HL",BL,CSCI,Computer Science,SS,0F,-,,00039936,BL-INAD,SICE ADMINISTRATION,"$39,624.00",1.0000,12
+2020,"Crandall, D",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$135,945.00",1.0000,10
+2020,"Dalkilic, MM",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$123,028.00",1.0000,10
+2020,"Davenport, SL",BL,CSCI,Computer Science,SS,0G,-,,00048852,BL-INAD,SICE ADMINISTRATION,"$43,014.00",1.0000,12
+2020,"Dundar, MM",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$103,356.00",1.0000,10
+2020,"Durresi, A",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,SCIENCE,"$112,598.00",1.0000,10
+2020,"Ergun, AF",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$180,188.00",1.0000,12
+2020,"Freese-Posthuma, CJ",BL,CSCI,Computer Science,SS,0F,-,,00047121,BL-CSCI,COMPUTER SCIENCE,"$39,624.00",1.0000,12
+2020,"Friedman, DP",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$170,716.00",1.0000,10
+2020,"German, D",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$78,037.00",1.0000,10
+2020,"Harris, AJ",IN,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00007614,IN-CSCI,COMPUTER SCIENCE,"$74,547.00",1.0000,12
+2020,"Hasan, MA",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$100,854.00",1.0000,10
+2020,"Hill, JH",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$104,010.00",1.0000,10
+2020,"Hmeljak, D",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$74,543.00",1.0000,10
+2020,"Hollon, TA",BL,CSCI,Computer Science,SS,0F,-,,00018966,BL-INAD,SICE ADMINISTRATION,"$39,624.00",1.0000,12
+2020,"Huang, Y",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$104,935.00",1.0000,10
+2020,"Hu, Q",IN,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$88,000.00",1.0000,10
+2020,"Kapadia, AC",BL,CSCI,Computer Science,AC1,FTX,AAM,PC - Associate Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$145,000.00",1.0000,10
+2020,"Kiser, AR",BL,CSCI,Computer Science,PAE,3SA,-,,00044784,BL-INAD,SICE ADMINISTRATION,"$47,400.00",1.0000,12
+2020,"Leake, DB",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$170,079.00",1.0000,10
+2020,"Leivant, DM",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$146,765.00",1.0000,10
+2020,"Leonard, SJ",IN,CSCI,Computer Science,CL,06,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$35,360.00",1.0000,12
+2020,"Liang, Y",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$119,573.00",1.0000,10
+2020,"Liao, X",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$100,803.00",1.0000,10
+2020,"Liu, W",BL,CSCI,Computer Science,AC1,FVX,FV8,,00038631,BL-CSCI,COMPUTER SCIENCE,"$37,000.00",1.0000,12
+2020,"Lumsdaine, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020679,BL-CSCI,COMPUTER SCIENCE,"$193,736.00",1.0000,10
+2020,"Malbasa, V",BL,CSCI,Computer Science,AC1,FCX,FC1,PR - Professor,00043908,BL-CSCI,COMPUTER SCIENCE,"$111,163.00",1.0000,10
+2020,"Mikolon, L",BL,CSCI,Computer Science,SS,0F,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$30,218.00",0.8000,12
+2020,"Mohler, GO",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00043851,IN-CSCI,COMPUTER SCIENCE,"$110,150.00",1.0000,10
+2020,"Molina, R",IN,CSCI,Computer Science,CL,05,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$33,010.00",1.0000,12
+2020,"Mukhopadhyay, S",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$123,661.00",1.0000,10
+2020,"Newton, RR",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$130,698.00",1.0000,10
+2020,"Pope, CE",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$81,651.00",1.0000,10
+2020,"Radivojac, P",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026759,BL-CSCI,COMPUTER SCIENCE,"$140,218.00",1.0000,10
+2020,"Raphael, CS",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$149,673.00",1.0000,10
+2020,"Rawlins, GJ",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$81,829.00",1.0000,10
+2020,"Reed, LL",BL,CSCI,Computer Science,SS,0F,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$41,600.00",1.0000,12
+2020,"Reyes-Cooksey, P",BL,CSCI,Computer Science,PAE,4SA,-,,00030845,BL-INFO,LUDDY SCHOOL OF INFO COMP & EN,"$76,087.00",1.0000,12
+2020,"Sabry, A",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$157,925.00",1.0000,10
+2020,"Sahinalp, SC",BL,CSCI,Computer Science,AC1,FTX,-,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$170,222.00",1.0000,10
+2020,"Shan, CC",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$113,471.00",1.0000,10
+2020,"Siek, J",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$141,656.00",1.0000,10
+2020,"Song, F",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$98,005.00",1.0000,10
+2020,"Tang, H",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$143,675.00",1.0000,10
+2020,"Tang, W",BL,CSCI,Computer Science,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$65,000.00",1.0000,12
+2020,"Tiganj, Z",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039136,BL-CSCI,COMPUTER SCIENCE,"$101,500.00",1.0000,10
+2020,"Tobin-Hochstadt, SY",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$120,007.00",1.0000,10
+2020,"Tsechpenakis, G",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$102,066.00",1.0000,10
+2020,"Tuceryan, M",IN,CSCI,Computer Science,AC1,FTX,AAL,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$140,432.00",1.0000,12
+2020,"van Busum, KM",IN,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$57,570.00",1.0000,12
+2020,"van Gucht, D",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$148,144.00",1.0000,10
+2020,"Wang, X",BL,CSCI,Computer Science,AC1,FTX,NDW,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$172,089.00",1.0000,10
+2020,"Wedemeyer, CJ",BL,CSCI,Computer Science,PAE,3SA,-,,00035615,BL-CSCI,COMPUTER SCIENCE,"$47,400.00",1.0000,12
+2020,"Wennstrom, EM",BL,CSCI,Computer Science,AC1,FLX,FL5,TL - Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$76,873.00",1.0000,10
+2020,"Whitmer, JM",BL,CSCI,Computer Science,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$75,779.00",1.0000,10
+2020,"Williamson, DS",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$104,542.00",1.0000,10
+2020,"Wittlief, NM",IN,CSCI,Computer Science,PAO,2AD,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$52,250.00",1.0000,12
+2020,"Wood, JN",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00045864,BL-INFI,DEPARTMENT OF INFORMATICS,"$113,000.00",1.0000,10
+2020,"Wood, S",BL,CSCI,Computer Science,AC1,RSP,RSP,,00044194,BL-INFI,DEPARTMENT OF INFORMATICS,"$65,000.00",1.0000,12
+2020,"Xia, Y",IN,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$94,379.00",1.0000,10
+2020,"Xing, L",BL,CSCI,Computer Science,AC1,FTX,FT3,PT - Assistant Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$100,579.00",1.0000,10
+2020,"Ye, Y",BL,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00031828,BL-CSCI,COMPUTER SCIENCE,"$133,689.00",1.0000,10
+2020,"Yuan, B",BL,CSCI,Computer Science,AC1,FVX,FV8,,00048944,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$23,660.00",1.0000,12
+2020,"Zhang, Q",BL,CSCI,Computer Science,AC1,FTX,FT2,PC - Associate Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$142,000.00",1.0000,10
+2020,"Zheng, JY",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$109,982.00",1.0000,10
+2020,"Zou, X",IN,CSCI,Computer Science,AC1,FTX,FT1,PR - Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$107,158.00",1.0000,10
+2021,"Bhutta, AA",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00044042,BL-CSCI,COMPUTER SCIENCE,"$78,908.00",1.0000,10
+2021,"Blanco Rodriguez, SA",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00039773,BL-CSCI,COMPUTER SCIENCE,"$101,500.00",1.0000,10
+2021,"Brown, GM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$157,211.00",1.0000,10
+2021,"Bullock, TR",IN,CSCI,COMPUTER SCIENCE,PAE,5AA,-,,00004642,IN-CSCI,COMPUTER SCIENCE,"$48,092.00",1.0000,12
+2021,"Chen, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV8,,00041254,BL-CSCI,COMPUTER SCIENCE,"$62,647.00",1.0000,12
+2021,"Chia, N ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00004974,BL-CSCI,COMPUTER SCIENCE,"$104,000.00",1.0000,10
+2021,"Crandall, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00020678,BL-CSCI,COMPUTER SCIENCE,"$146,821.00",1.0000,10
+2021,"Dalkilic, MM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00020789,BL-CSCI,COMPUTER SCIENCE,"$132,870.00",1.0000,10
+2021,"Dundar, MM",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$104,390.00",1.0000,10
+2021,"Ergun, F ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$183,791.00",1.0000,12
+2021,"Fang, S ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00000318,IN-CSCI,COMPUTER SCIENCE,"$201,856.00",1.0000,12
+2021,"Freese-Posthuma, CJ",BL,CSCI,COMPUTER SCIENCE,PAA,2AS,-,,00047121,BL-CSCI,COMPUTER SCIENCE,"$40,123.00",1.0000,12
+2021,"Friedman, DP",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$174,130.00",1.0000,10
+2021,"German, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$79,598.00",1.0000,10
+2021,"Harris, AJ",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,-,,00007614,IN-CSCI,COMPUTER SCIENCE,"$82,293.00",1.0000,12
+2021,"Hasan, MA",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$110,362.00",1.0000,10
+2021,"Hill, JH",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$105,050.00",1.0000,10
+2021,"Hmeljak, M ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$76,034.00",1.0000,10
+2021,"Huang, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$114,379.00",1.0000,10
+2021,"Hu, Q ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$88,880.00",1.0000,10
+2021,"Kapadia, A ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$156,600.00",1.0000,10
+2021,"Khardon, R ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00038713,BL-CSCI,COMPUTER SCIENCE,"$165,147.00",1.0000,10
+2021,"Kurban, H ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV3,PT - Assistant Professor,00040834,BL-CSCI,COMPUTER SCIENCE,"$93,000.00",1.0000,10
+2021,"Leake, DB",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$173,481.00",1.0000,10
+2021,"Leivant, DM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$149,700.00",1.0000,10
+2021,"Leonard, S ",IN,CSCI,COMPUTER SCIENCE,PAC,2AR,-,,00039958,IN-CSCI,COMPUTER SCIENCE,"$35,714.00",1.0000,12
+2021,"Liang, Y ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$120,768.00",1.0000,10
+2021,"Liao, X ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$102,819.00",1.0000,10
+2021,"Liu, W ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,-,,00038631,BL-CSCI,COMPUTER SCIENCE,"$37,740.00",1.0000,12
+2021,"Lu, L ",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,-,,00011697,IN-CSCI,COMPUTER SCIENCE,"$75,749.00",1.0000,12
+2021,"Malbasa, V ",BL,CSCI,COMPUTER SCIENCE,AC1,FCX,FC1,PR - Professor,00043908,BL-CSCI,COMPUTER SCIENCE,"$113,386.00",1.0000,10
+2021,"Mikolon, L ",BL,CSCI,COMPUTER SCIENCE,PAA,2FI,-,,00014177,BL-CSCI,COMPUTER SCIENCE,"$30,601.00",0.8000,12
+2021,"Mohler, GO",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00043851,IN-CSCI,COMPUTER SCIENCE,"$119,752.00",1.0000,10
+2021,"Molina, R ",IN,CSCI,COMPUTER SCIENCE,PAC,1AM,-,,00011451,IN-CSCI,COMPUTER SCIENCE,"$33,342.00",1.0000,12
+2021,"Mukhopadhyay, S ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,ACM,,00006197,IN-CSCI,COMPUTER SCIENCE,"$124,898.00",1.0000,10
+2021,"Pope, CE",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$83,284.00",1.0000,10
+2021,"Raphael, CS",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$152,666.00",1.0000,10
+2021,"Rawlins, GJ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$83,466.00",1.0000,10
+2021,"Reed, LL",BL,CSCI,COMPUTER SCIENCE,PAA,2AM,-,,00017333,BL-CSCI,COMPUTER SCIENCE,"$42,120.00",1.0000,12
+2021,"Sabry, AA",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$161,084.00",1.0000,10
+2021,"Sahinalp, C ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00026866,BL-CSCI,COMPUTER SCIENCE,"$170,222.00",1.0000,10
+2021,"Seiffert, KA",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FL5,TL - Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$74,000.00",1.0000,10
+2021,"Shan, C ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$115,740.00",1.0000,10
+2021,"Siddiqui, MA",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,LPS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$78,000.00",1.0000,10
+2021,"Siek, J ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$144,489.00",1.0000,10
+2021,"Song, F ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$98,985.00",1.0000,10
+2021,"Streiff, J ",BL,CSCI,COMPUTER SCIENCE,PAO,3PJ,-,,00044201,BL-CSCI,COMPUTER SCIENCE,"$59,384.00",1.0000,12
+2021,"Tang, H ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00026767,BL-CSCI,COMPUTER SCIENCE,"$148,549.00",1.0000,10
+2021,"Tang, W ",BL,CSCI,COMPUTER SCIENCE,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$66,300.00",1.0000,12
+2021,"Tiganj, Z ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00039136,BL-CSCI,COMPUTER SCIENCE,"$103,530.00",1.0000,10
+2021,"Tobin-Hochstadt, S ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$122,407.00",1.0000,10
+2021,"Tsechpenakis, G ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$103,087.00",1.0000,10
+2021,"Tuceryan, M ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$116,586.00",1.0000,10
+2021,"Van Busum, KM",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$58,146.00",1.0000,12
+2021,"VanDeventer, BJ",BL,CSCI,COMPUTER SCIENCE,PAE,6AA,-,,00046229,BL-CSCI,COMPUTER SCIENCE,"$53,793.00",1.0000,12
+2021,"Van Gucht, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$153,107.00",1.0000,10
+2021,"Wang, X ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$175,531.00",1.0000,10
+2021,"Wang, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00026931,BL-CSCI,COMPUTER SCIENCE,"$103,530.00",1.0000,10
+2021,"Wedemeyer, CJ",BL,CSCI,COMPUTER SCIENCE,PAE,5AA,-,,00035615,BL-CSCI,COMPUTER SCIENCE,"$47,993.00",1.0000,12
+2021,"Wennstrom, EM",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$78,410.00",1.0000,10
+2021,"Whitmer, J ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$77,295.00",1.0000,10
+2021,"Williamson, DS",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00039134,BL-CSCI,COMPUTER SCIENCE,"$106,633.00",1.0000,10
+2021,"Wittlief, NM",IN,CSCI,COMPUTER SCIENCE,PAO,3AS,-,,00006186,IN-CSCI,COMPUTER SCIENCE,"$52,770.00",1.0000,12
+2021,"Xia, Y ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$95,323.00",1.0000,10
+2021,"Xing, L ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$102,591.00",1.0000,10
+2021,"Ye, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAL,,00031828,BL-CSCI,COMPUTER SCIENCE,"$138,363.00",1.0000,10
+2021,"Zhang, Q ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00038126,BL-CSCI,COMPUTER SCIENCE,"$154,780.00",1.0000,10
+2021,"Zhang, X ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00045152,BL-CSCI,COMPUTER SCIENCE,"$103,530.00",1.0000,10
+2021,"Zheng, J ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$111,082.00",1.0000,10
+2021,"Zhu, K ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV8,,00038834,BL-CSCI,COMPUTER SCIENCE,"$38,117.00",1.0000,12
+2021,"Zou, X ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$108,230.00",1.0000,10
+2022,"Angrick, MC",IN,CSCI,COMPUTER SCIENCE,PAC,2AS,,,00052489,IN-CSCI,COMPUTER SCIENCE,"$35,714.00",1.0000,12
+2022,"Ashraf, N ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,LPS,TS - Senior Lecturer,00026923,BL-CSCI,COMPUTER SCIENCE,"$78,000.00",1.0000,10
+2022,"Bahramian, H ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FL5,TL - Lecturer,00052215,BL-CSCI,COMPUTER SCIENCE,"$70,000.00",1.0000,10
+2022,"Blanco Rodriguez, SA",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00039773,BL-CSCI,COMPUTER SCIENCE,"$105,154.00",1.0000,10
+2022,"Brown, GM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004045,BL-CSCI,COMPUTER SCIENCE,"$162,871.00",1.0000,10
+2022,"Bullock, TR",IN,CSCI,COMPUTER SCIENCE,PAE,5AA,FA5,TL - Lecturer,00004642,IN-SCI,IUPUI SCHOOL OF SCIENCE,"$49,054.00",1.0000,12
+2022,"Caldeira, C ",BL,CSCI,COMPUTER SCIENCE,AC1,RSP,RSP,,00028719,BL-INRS,INFORMATICS RESEARCH,"$76,500.00",1.0000,12
+2022,"Crandall, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00020678,BL-CSCI,COMPUTER SCIENCE,"$180,000.00",1.0000,10
+2022,"Dalkilic, MM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00020789,BL-CSCI,COMPUTER SCIENCE,"$137,653.00",1.0000,10
+2022,"Dundar, MM",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00033724,IN-CSCI,COMPUTER SCIENCE,"$106,478.00",1.0000,10
+2022,"Durresi, A ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00032540,IN-SCI,IUPUI SCHOOL OF SCIENCE,"$115,998.00",1.0000,10
+2022,"Ergun, F ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004986,BL-CSCI,COMPUTER SCIENCE,"$190,407.00",1.0000,12
+2022,"Fang, S ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,AAL,,00000318,IN-CSCI,COMPUTER SCIENCE,"$205,893.00",1.0000,12
+2022,"Freese-Posthuma, CJ",BL,CSCI,COMPUTER SCIENCE,PAA,2AS,,,00047121,BL-CSCI,COMPUTER SCIENCE,"$41,725.00",1.0000,12
+2022,"Friedman, DP",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004973,BL-CSCI,COMPUTER SCIENCE,"$180,399.00",1.0000,10
+2022,"German, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00005049,BL-CSCI,COMPUTER SCIENCE,"$82,464.00",1.0000,10
+2022,"Hahn, M ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00029064,BL-BI,BIOLOGY,"$139,671.00",1.0000,10
+2022,"Harris, AJ",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,FLT,PR - Professor,00007614,IN-CSCI,COMPUTER SCIENCE,"$83,939.00",1.0000,12
+2022,"Hasan, MA",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00035418,IN-CSCI,COMPUTER SCIENCE,"$112,569.00",1.0000,10
+2022,"Heidari Khoozani, M ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00030320,BL-CSCI,COMPUTER SCIENCE,"$104,000.00",1.0000,10
+2022,"Hill, JH",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00034913,IN-CSCI,COMPUTER SCIENCE,"$115,651.00",1.0000,10
+2022,"Hmeljak, M ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00042325,BL-CSCI,COMPUTER SCIENCE,"$78,771.00",1.0000,10
+2022,"Huang, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00008538,BL-CSCI,COMPUTER SCIENCE,"$118,497.00",1.0000,10
+2022,"Hu, Q ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00040868,IN-CSCI,COMPUTER SCIENCE,"$90,658.00",1.0000,10
+2022,"Jang, H ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00051669,IN-CSCI,COMPUTER SCIENCE,"$96,000.00",1.0000,10
+2022,"Kapadia, A ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00023634,BL-CSCI,COMPUTER SCIENCE,"$162,864.00",1.0000,10
+2022,"Khoo, W ",BL,CSCI,COMPUTER SCIENCE,AC1,RSP,RSP,,00042212,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$65,000.00",1.0000,12
+2022,"Kulekci, O ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV1,PR - Professor,00039900,BL-CSCI,COMPUTER SCIENCE,"$96,348.00",1.0000,10
+2022,"Kurban, H ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV2,PC - Associate Professor,00040834,BL-CSCI,COMPUTER SCIENCE,"$96,348.00",1.0000,10
+2022,"Leake, DB",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004971,BL-CSCI,COMPUTER SCIENCE,"$179,726.00",1.0000,10
+2022,"Leivant, DM",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00008148,BL-CSCI,COMPUTER SCIENCE,"$155,089.00",1.0000,10
+2022,"Liang, Y ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00032202,IN-CSCI,COMPUTER SCIENCE,"$123,184.00",1.0000,10
+2022,"Liao, X ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00022922,BL-CSCI,COMPUTER SCIENCE,"$106,932.00",1.0000,10
+2022,"Li, S ",BL,CSCI,COMPUTER SCIENCE,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00038763,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$48,096.00",0.7500,12
+2022,"Lu, L ",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,FLT,PR - Professor,00011697,IN-CSCI,COMPUTER SCIENCE,"$77,264.00",1.0000,12
+2022,"Malbasa, V ",BL,CSCI,COMPUTER SCIENCE,AC1,FCX,FC1,PR - Professor,00043908,BL-CSCI,COMPUTER SCIENCE,"$117,468.00",1.0000,10
+2022,"Mikolon, L ",BL,CSCI,COMPUTER SCIENCE,PAA,2FI,,,00014177,BL-CSCI,COMPUTER SCIENCE,"$31,832.00",1.0000,12
+2022,"Mukhopadhyay, S ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00006197,IN-CSCI,COMPUTER SCIENCE,"$127,396.00",1.0000,10
+2022,"Nzabarushimana, E ",BL,CSCI,COMPUTER SCIENCE,AC1,FVX,FV8,,00040807,BL-CSCI,COMPUTER SCIENCE,"$48,000.00",1.0000,12
+2022,"Pope, CE",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00005042,BL-CSCI,COMPUTER SCIENCE,"$86,615.00",1.0000,10
+2022,"Raphael, CS",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00026760,BL-CSCI,COMPUTER SCIENCE,"$158,162.00",1.0000,10
+2022,"Rawlins, GJ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004988,BL-CSCI,COMPUTER SCIENCE,"$85,135.00",1.0000,10
+2022,"Reed, LL",BL,CSCI,COMPUTER SCIENCE,PAA,2AM,,,00017333,BL-CSCI,COMPUTER SCIENCE,"$43,805.00",1.0000,12
+2022,"Sabry, AA",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004972,BL-CSCI,COMPUTER SCIENCE,"$166,883.00",1.0000,10
+2022,"Seiffert, KA",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FL5,TL - Lecturer,00044043,BL-CSCI,COMPUTER SCIENCE,"$76,664.00",1.0000,10
+2022,"Shan, C ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004977,BL-CSCI,COMPUTER SCIENCE,"$119,907.00",1.0000,10
+2022,"Siddiqui, MA",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,LPS,TS - Senior Lecturer,00051207,BL-CSCI,COMPUTER SCIENCE,"$79,560.00",1.0000,10
+2022,"Siek, J ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00004989,BL-CSCI,COMPUTER SCIENCE,"$149,691.00",1.0000,10
+2022,"Song, F ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00039121,IN-CSCI,COMPUTER SCIENCE,"$100,965.00",1.0000,10
+2022,"Tang, D ",BL,CSCI,COMPUTER SCIENCE,AC1,RSP,RSP,,00041365,BL-CSRS,COMPUTER SCIENCE RESEARCH,"$65,432.00",1.0000,12
+2022,"Tang, H ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAM,,00026767,BL-CSCI,COMPUTER SCIENCE,"$156,491.00",1.0000,10
+2022,"Tang, W ",BL,CSCI,COMPUTER SCIENCE,AC1,RSX,RS3,RT - Assistant Scientist;Scholar,00039772,BL-CSCI,COMPUTER SCIENCE,"$68,687.00",1.0000,12
+2022,"Tiganj, Z ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00039136,BL-CSCI,COMPUTER SCIENCE,"$107,671.00",1.0000,10
+2022,"Tobin-Hochstadt, S ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00004990,BL-CSCI,COMPUTER SCIENCE,"$127,303.00",1.0000,10
+2022,"Tsechpenakis, G ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00006196,IN-CSCI,COMPUTER SCIENCE,"$105,149.00",1.0000,10
+2022,"Tuceryan, M ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00009095,IN-CSCI,COMPUTER SCIENCE,"$118,918.00",1.0000,10
+2022,"Van Busum, KM",IN,CSCI,COMPUTER SCIENCE,AC1,FLX,FL5,TL - Lecturer,00010205,IN-CSCI,COMPUTER SCIENCE,"$59,309.00",1.0000,12
+2022,"Van Gucht, D ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00008540,BL-CSCI,COMPUTER SCIENCE,"$158,619.00",1.0000,10
+2022,"Wang, X ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00027567,BL-CSCI,COMPUTER SCIENCE,"$181,850.00",1.0000,10
+2022,"Wennstrom, EM",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00037932,BL-CSCI,COMPUTER SCIENCE,"$81,546.00",1.0000,10
+2022,"Whitmer, J ",BL,CSCI,COMPUTER SCIENCE,AC1,FLX,FLS,TS - Senior Lecturer,00010257,BL-CSCI,COMPUTER SCIENCE,"$80,078.00",1.0000,10
+2022,"Wittlief, NM",IN,CSCI,COMPUTER SCIENCE,PAE,4PM,,,00053319,IN-CSCI,COMPUTER SCIENCE,"$63,000.00",1.0000,12
+2022,"Wood, JN",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00045864,BL-INFI,DEPARTMENT OF INFORMATICS,"$127,477.00",1.0000,10
+2022,"Xia, Y ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT2,PC - Associate Professor,00006198,IN-CSCI,COMPUTER SCIENCE,"$97,229.00",1.0000,10
+2022,"Xing, L ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,FT3,PT - Assistant Professor,00027130,BL-CSCI,COMPUTER SCIENCE,"$108,695.00",1.0000,10
+2022,"Ye, Y ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAL,,00031828,BL-CSCI,COMPUTER SCIENCE,"$145,898.00",1.0000,10
+2022,"Zhang, Q ",BL,CSCI,COMPUTER SCIENCE,AC1,FTX,AAL,,00038126,BL-CSCI,COMPUTER SCIENCE,"$150,054.00",1.0000,10
+2022,"Zheng, J ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00020610,IN-CSCI,COMPUTER SCIENCE,"$113,304.00",1.0000,10
+2022,"Zou, X ",IN,CSCI,COMPUTER SCIENCE,AC1,FTX,FT1,PR - Professor,00027691,IN-CSCI,COMPUTER SCIENCE,"$110,395.00",1.0000,10
