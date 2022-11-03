@@ -22,7 +22,7 @@ for (i in 1:nrow(data)) {
   else if (data[i,"NEWSALARY"] <= 200000) {
     data[i,"SALARYCLASS"] = 5
   }
-  else if (data[i,"NEWSALARY"] > 100000) {
+  else if (data[i,"NEWSALARY"] > 200000) {
     data[i,"SALARYCLASS"] = 6
   }
 }
