@@ -25,7 +25,7 @@ data <- data %>% filter(COURSE. < 500)
 
 ## More Data cleaning
 # Select only important columns
-data = data[,c("YEAR", "COURSE.", "PERCENT.MAJORS", "NEWSALARY", "AVG.SECT.GPA", "SALARYCLASS")]
+data = data[,c("COURSE.", "PERCENT.MAJORS", "AVG.SECT.GPA", "SALARYCLASS")]
 # Flooring the course numbers to only 1,2,3, and 4
 data["COURSE."] = floor(data["COURSE."] / 100)
 
