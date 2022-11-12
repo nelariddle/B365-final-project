@@ -12,10 +12,11 @@ library(caret)
 data = read.csv("data-with-salary-class.csv")
 dimnames(data)
 
-split <- sample.split(data, SplitRatio = 0.7)
+split <- sample.split(data, SplitRatio = 0.5)
 train <- subset(data, split == "TRUE")
 test <- subset(data, split == "FALSE")
-
+train
+test
 train_scale <- scale(train[, 17:38])
 test_scale <- scale(test[, 17:38])
 
