@@ -41,7 +41,7 @@ X <-
 y <- instructor.data %>% select(NEWSALARY) %>% as.matrix()
 n_attrs <- ncol(X)
 sses <- rep(0, n_attrs)
-attr_perf<-array(0,dim=c(n_attrs,4))
+attr_perf <- array(0, dim = c(n_attrs, 4))
 for (i in 1:n_attrs) {
   plot(X[, i], y, xlab = colnames(X)[i], ylab = colnames(y)[1])
   d <- cbind(X[, i] ^ 0, X[, i] ^ 1)
@@ -51,7 +51,7 @@ for (i in 1:n_attrs) {
   error <- y - yhat
   sse <- sum(error ^ 2)
   sses[i] <- sse
-  attr_perf[i,]<-c(colnames(X)[i],round(sse, 3),a[1],a[2])
+  attr_perf[i,] <- c(colnames(X)[i], round(sse, 3), a[1], a[2])
 }
 for (rank in order(sses)) {
   cat(
@@ -68,8 +68,8 @@ for (rank in order(sses)) {
 
 # variable selection
 X <- instructor.data %>% select(
-  TOTAL.INSTRUCTOR.GRADES,
   AVG.SECT.GPA,
+  TOTAL.INSTRUCTOR.GRADES,
   YEAR,
   COURSE.,
   PERCENT.MAJORS,
@@ -83,6 +83,7 @@ used <-
 var <- rep(0, n_attrs)
 bestsse <-
   rep(10000000000000, n_attrs)
+bestA <- rep(0, 3)
 for (j in 1:n_attrs)  {
   for (i in which(used == FALSE)) {
     used[i] <- TRUE
@@ -94,18 +95,15 @@ for (j in 1:n_attrs)  {
     if (sse < bestsse[j]) {
       bestsse[j] <- sse
       var[j] <- i
+      bestA <- a
     }
     used[i] <- FALSE
-    
   }
-  used[var[j]] <-
-    TRUE
-  cat("the", ordinal(j), "best attribute is", colnames(X)[j], '\n')
+  used[var[j]] <- TRUE
+  # cat(bestA, "\n")
+  cat("the", ordinal(j), "best attribute is", colnames(X)[var[j]], '\n')
 }
 plot(bestsse,
      main = "squared error vs. num attributes used",
      xlab = "num attributes",
      ylab = "squared error")
-
-
-
