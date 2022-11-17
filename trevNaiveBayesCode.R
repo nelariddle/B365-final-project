@@ -29,7 +29,7 @@ data = data[,c("COURSE.", "PERCENT.MAJORS", "AVG.SECT.GPA", "SALARYCLASS")]
 # Flooring the course numbers to only 1,2,3, and 4
 data["COURSE."] = floor(data["COURSE."] / 100)
 
-split <- sample.split(data, SplitRatio = 0.5)
+split <- sample.split(data, SplitRatio = 0.7)
 train <- subset(data, split == "TRUE")
 test <- subset(data, split == "FALSE")
 train
@@ -44,6 +44,32 @@ classifier_cl
 y_pred <- predict(classifier_cl, newdata = test)
 
 cm <- table(test$SALARYCLASS, y_pred)
+cm
+
+confusionMatrix(cm)
+
+# Trying again but with the new classes
+
+data = read.csv("data-with-salary-class2.csv")
+data$PCT.GPA <- data$GPA.GRADES / data$TOTAL.GRADES
+data <- data %>% filter(LETTER != "Y" & LETTER != "G")
+data <- data %>% filter(COURSE. < 500)
+data = data[,c("COURSE.", "PERCENT.MAJORS", "AVG.SECT.GPA", "SALARYCLASS2")]
+data["COURSE."] = floor(data["COURSE."] / 100)
+
+split <- sample.split(data, SplitRatio = 0.7)
+train <- subset(data, split == "TRUE")
+test <- subset(data, split == "FALSE")
+train
+test
+
+set.seed(120)
+classifier_cl <- naiveBayes(SALARYCLASS2 ~ ., data = train)
+classifier_cl
+
+y_pred <- predict(classifier_cl, newdata = test)
+
+cm <- table(test$SALARYCLASS2, y_pred)
 cm
 
 confusionMatrix(cm)
