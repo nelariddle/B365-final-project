@@ -78,8 +78,11 @@ X <- instructor.data %>% select(
 ) %>% as.matrix()
 y <- instructor.data %>% select(NEWSALARY) %>% as.matrix()
 n_attrs <- ncol(X)
-used <-
-  rep(FALSE, n_attrs)
+
+
+
+
+used <-rep(FALSE, n_attrs)
 var <- rep(0, n_attrs)
 bestsse <-
   rep(10000000000000, n_attrs)
@@ -101,7 +104,14 @@ for (j in 1:n_attrs)  {
   }
   used[var[j]] <- TRUE
   # cat(bestA, "\n")
-  cat("the", ordinal(j), "best attribute is", colnames(X)[var[j]], '\n')
+  cat("the", ordinal(j), "best attribute is", colnames(X)[var[j]], ", error:",bestsse[j],"\n")
+  result<-paste(colnames(y),"=",bestA[1],"+")
+  for(i in 2:(j+1)){
+    result<-paste(result,bestA[i])
+    result<-paste(result,"(",rownames(bestA)[i],") +")
+  }
+  result<-substring(result,1,nchar(result)-2)
+  cat(result,"\n\n")
 }
 plot(bestsse,
      main = "squared error vs. num attributes used",
