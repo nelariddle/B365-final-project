@@ -1,6 +1,7 @@
 setwd("C:/Users/nelar/OneDrive/Documents/fall 2022/b365/Final project")
 data <-
   read.csv("data-with-salary-class.csv", stringsAsFactors = TRUE)
+# uncomment if not yet installed
 # install.packages("dplyr")
 # install.packages("english")
 library(dplyr)
@@ -51,7 +52,7 @@ for (i in 1:n_attrs) {
   error <- y - yhat
   sse <- sum(error ^ 2)
   sses[i] <- sse
-  attr_perf[i,] <- c(colnames(X)[i], round(sse, 3), a[1], a[2])
+  attr_perf[i, ] <- c(colnames(X)[i], round(sse, 3), a[1], a[2])
 }
 for (rank in order(sses)) {
   cat(
@@ -82,7 +83,7 @@ n_attrs <- ncol(X)
 
 
 
-used <-rep(FALSE, n_attrs)
+used <- rep(FALSE, n_attrs)
 var <- rep(0, n_attrs)
 bestsse <-
   rep(10000000000000, n_attrs)
@@ -104,16 +105,61 @@ for (j in 1:n_attrs)  {
   }
   used[var[j]] <- TRUE
   # cat(bestA, "\n")
-  cat("the", ordinal(j), "best attribute is", colnames(X)[var[j]], ", error:",bestsse[j],"\n")
-  result<-paste(colnames(y),"=",bestA[1],"+")
-  for(i in 2:(j+1)){
-    result<-paste(result,bestA[i])
-    result<-paste(result,"(",rownames(bestA)[i],") +")
+  cat("the",
+      ordinal(j),
+      "best attribute is",
+      colnames(X)[var[j]],
+      ", error:",
+      bestsse[j],
+      "\n")
+  result <- paste(colnames(y), "=", bestA[1], "+")
+  for (i in 2:(j + 1)) {
+    result <- paste(result, bestA[i])
+    result <- paste(result, "(", rownames(bestA)[i], ") +")
   }
-  result<-substring(result,1,nchar(result)-2)
-  cat(result,"\n\n")
+  result <- substring(result, 1, nchar(result) - 2)
+  cat(result, "\n\n")
 }
 plot(bestsse,
      main = "squared error vs. num attributes used",
      xlab = "num attributes",
      ylab = "squared error")
+
+# overall predictions
+instructor.data <- instructor.data %>% mutate(PREDICTION)
+instructor.data <- instructor.data %>% mutate(PREDICTION.DIFF)
+for (row in 1:nrow(instructor.data)) {
+  obs <- c(1, X[row, ])
+  salary <- y[row, ]
+  output <- t(as.matrix(obs)) %*% as.matrix(bestA)
+  instructor.data$PREDICTION[row] <- output
+  instructor.data$PREDICTION.DIFF[row] <- output - salary
+}
+plot(
+  instructor.data$NEWSALARY,
+  instructor.data$PREDICTION,
+  xlab = "salary",
+  ylab = "predicted salary",
+  main = "really good salary predictions",
+  col = "purple"
+)
+lines(c(60000, 150000), c(60000, 150000))
+
+# individual predictions
+rowsToPredict <- c(1732, 1667, 1702, 1628)
+for (row in rowsToPredict) {
+  cat(
+    "name:",
+    toString(instructor.data$INSTRUCTOR.NAME[row]),
+    "| term:",
+    toString(instructor.data$TERM.DESCRIPTION[row]),
+    "| class:",
+    toString(instructor.data$COURSE.DESCRIPTION[row]),
+    "\nguess:",
+    instructor.data$PREDICTION[row],
+    "| actual salary:",
+    instructor.data$NEWSALARY[row],
+    "\n"
+  )
+}
+
