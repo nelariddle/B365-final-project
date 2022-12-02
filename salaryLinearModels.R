@@ -1,4 +1,4 @@
-setwd("C:/Users/nelar/OneDrive/Documents/fall 2022/b365/Final project")
+# setwd("C:/Users/nelar/OneDrive/Documents/fall 2022/b365/Final project")
 data <-
   read.csv("data-with-salary-class.csv", stringsAsFactors = TRUE)
 # uncomment if not yet installed
